@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,43 +8,52 @@ redirect_from:
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+Hi! I’m Zhibin Gou, currently a first-year graduate student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My major research interest lies in text generation.
 
-A data-driven personal website
+Education
 ======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
+- **Aug. 2022 - Jun. 2025 (Expected)** M.Sc., Div. of Information Science and Technology, SIGS, Tsinghua University, Beijing, China.
 
-Getting started
+- **Sep. 2018 - Jun. 2022** B.Sc., School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China.
+
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+(\* indicates equal contribution)
 
-Site-wide configuration
+Conference Paper
 ------
-The main configuration file for the site is in the base directory in [_config.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_config.yml), which defines the content in the sidebars and other site-wide features. You will need to replace the default variables with ones about yourself and your site's github repository. The configuration file for the top menu is in [_data/navigation.yml](https://github.com/academicpages/academicpages.github.io/blob/master/_data/navigation.yml). For example, if you don't have a portfolio or blog posts, you can remove those items from that navigation.yml file to remove them from the header. 
 
-Create content & metadata
-------
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
+- [ACL 2023] **MvP**: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction
+<br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
+<br> MvP is a simple unified generative framework for structure prediction, with state-of-the-art performance on 10 datasets of 4 ABSA tasks.
 
-**Markdown generator**
+- [ACL 2022 findings] Long Time No See! Open-Domain Conversation with Long-Term Persona Memory [[pdf]](https://arxiv.org/pdf/2203.05797.pdf) [[data]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon)
+<br> Xinchao Xu\*, **Zhibin Gou**\*, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, and Shihang Wang
+<br> The first long-term memory conversation task and the largest multi-turn mutual persona chat dataset in Chinese.
 
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
 
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
+Experience
+======
+- (Jan. 2023 - Current) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
+<br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
+<br> Working on large language models with a focus on truthfulness.
 
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
+- (Sep. 2021 - May. 2022) Research Intern, General Dialogue Group, Baidu Inc., Beijing, China.
+<br> Mentor: Xinchao Xu, [Hua Wu](https://wuhuanlp.github.io/)
+<br> Working on open-domain dialog: long-term memory, persona and dialog safety.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Competitions
+======
+- (Nov. 2022) 1st Place (1/54) in NLP task of [NeurIPS 2022 IGLU Challenge](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge)
+- (Aug. 2022) 2nd Place (2/684) in [WAIC 2022 Midu CTC Competition](https://aistudio.baidu.com/aistudio/competition/detail/404/0/leaderboard)
+- (May. 2021) 1st Place (auto eval: 1/862, human eval: 3/862) in Multi-skill Dialog task of [NLPCC 2021 Language and Intelligence Challenge](http://tcci.ccf.org.cn/conference/2021/cfpp.php)
+
+Honors & Awards
+======
+
+- Outstanding Graduate Thesis, Beijing, 2022
+- Outstanding Graduate, Beijing, 2022
+- National Scholarship (top 1%), Ministry of Education, China, 2020 
+- National Scholarship (top 1%), Ministry of Education, China, 2019 
+- National Scholarship (top 1%), Ministry of Education, China, 2018
