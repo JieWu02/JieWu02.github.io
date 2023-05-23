@@ -21,11 +21,11 @@ Publications
 ======
 (\* indicates equal contribution)
 
-- [Arxiv 2023] ***CRITIC**: Large Language Models Can Self-Correct with Tool-Interactive Critiquing* [[paper](https://arxiv.org/abs/2305.11738)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
+- [Arxiv 2023] *CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing* [[paper](https://arxiv.org/abs/2305.11738)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
 <br> CRITIC empowers LLMs to validate and rectify themselves through interaction with external tools.
 
-- [ACL 2023] ***MvP**: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction* [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]
+- [ACL 2023] *MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction* [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]
 <br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
 <br> MvP is a simple unified generative framework for structure prediction, achieving state-of-the-art performance on 10 datasets across 4 ABSA tasks.
 
