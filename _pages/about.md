@@ -21,14 +21,15 @@ Publications
 ======
 (\* indicates equal contribution)
 
-Conference Paper
-------
+- [Arxiv 2023] ***CRITIC**: Large Language Models Can Self-Correct with Tool-Interactive Critiquing* [[paper](https://arxiv.org/abs/2305.11738)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
+<br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
+<br> CRITIC empowers LLMs to validate and rectify themselves through interaction with external tools.
 
-- [ACL 2023] **MvP**: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction
+- [ACL 2023] ***MvP**: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction* [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]
 <br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
-<br> MvP is a simple unified generative framework for structure prediction, with state-of-the-art performance on 10 datasets of 4 ABSA tasks.
+<br> MvP is a simple unified generative framework for structure prediction, achieving state-of-the-art performance on 10 datasets across 4 ABSA tasks.
 
-- [ACL 2022 findings] Long Time No See! Open-Domain Conversation with Long-Term Persona Memory [[pdf]](https://arxiv.org/pdf/2203.05797.pdf) [[data]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon)
+- [ACL 2022 findings] *Long Time No See! Open-Domain Conversation with Long-Term Persona Memory* [[paper]](https://arxiv.org/abs/2203.05797) [[data]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon)
 <br> Xinchao Xu\*, **Zhibin Gou**\*, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, and Shihang Wang
 <br> The first long-term memory conversation task and the largest multi-turn mutual persona chat dataset in Chinese.
 
