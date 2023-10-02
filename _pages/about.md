@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhibin Gou, currently a first-year graduate student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My major research interest lies in text generation.
+Hi! I’m Zhibin Gou, currently a second-year graduate student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My major research interest lies in text generation.
 
 Education
 ======
@@ -20,6 +20,10 @@ Education
 Publications
 ======
 (\* indicates equal contribution)
+
+- [Arxiv 2023] *ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving* [[website](https://microsoft.github.io/ToRA/)] [[paper](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)]
+<br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
+<br> CRITIC empowers LLMs to validate and rectify themselves through interaction with external tools.
 
 - [Arxiv 2023] *CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing* [[paper](https://arxiv.org/abs/2305.11738)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
@@ -38,7 +42,7 @@ Experience
 ======
 - (Jan. 2023 - Current) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
-<br> Working on large language models with a focus on truthfulness.
+<br> Working on large language models.
 
 - (Sep. 2021 - May. 2022) Research Intern, General Dialogue Group, Baidu Inc., Beijing, China.
 <br> Mentor: Xinchao Xu, [Hua Wu](https://wuhuanlp.github.io/)
