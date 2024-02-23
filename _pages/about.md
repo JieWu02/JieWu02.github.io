@@ -10,12 +10,14 @@ redirect_from:
 
 Hi! I’m Zhibin Gou, currently a second-year graduate student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My currect ~~engineering~~ research interest lies in LLMs.
 
+
 Education
 ======
 
 - **Aug. 2022 - Jun. 2025 (Expected)** M.Sc., Div. of Information Science and Technology, SIGS, Tsinghua University, Beijing, China.
 
 - **Sep. 2018 - Jun. 2022** B.Sc., School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China.
+
 
 Publications
 ======
@@ -38,6 +40,15 @@ Publications
 <br> The first long-term memory conversation task and the largest multi-turn mutual persona chat dataset in Chinese.
 
 
+Preprints
+======
+- [Arxiv 2024] *CriticBench: Benchmarking LLMs for Critique-Correct Reasoning* [[website](https://criticbench.github.io/)] [[paper](https://arxiv.org/abs/2402.14809)] [[code](https://github.com/CriticBench/CriticBench)]
+<br> Zicheng Lin\*, **Zhibin Gou**\*, Tian Liang, Ruilin Luo, Haowei Liu, Yujiu Yang
+
+- [Arxiv 2024] *SciAgent: Tool-augmented Language Models for Scientific Reasoning* [[paper](https://arxiv.org/abs/2402.11451)]
+<br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen
+
+
 Experience
 ======
 - (Jan. 2023 - Current) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
@@ -48,15 +59,16 @@ Experience
 <br> Mentor: Xinchao Xu, [Hua Wu](https://wuhuanlp.github.io/)
 <br> Working on open-domain dialog: long-term memory, persona and dialog safety.
 
+
 Competitions
 ======
 - (Nov. 2022) 1st Place (1/54) in NLP task of [NeurIPS 2022 IGLU Challenge](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge)
 - (Aug. 2022) 2nd Place (2/684) in [WAIC 2022 Midu CTC Competition](https://aistudio.baidu.com/aistudio/competition/detail/404/0/leaderboard)
 - (May. 2021) 1st Place (auto eval: 1/862, human eval: 3/862) in Multi-skill Dialog task of [NLPCC 2021 Language and Intelligence Challenge](http://tcci.ccf.org.cn/conference/2021/cfpp.php)
 
+
 Honors & Awards
 ======
-
 - Outstanding Graduate Thesis, Beijing, 2022
 - Outstanding Graduate, Beijing, 2022
 - National Scholarship (top 1%), Ministry of Education, China, 2020 
