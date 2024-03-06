@@ -1,22 +1,24 @@
 ---
 permalink: /
-title: "About me"
-excerpt: "About me"
+title: "Zhibin Gou 苟志斌"
+excerpt: "Zhibin Gou 苟志斌"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I’m Zhibin Gou, currently a second-year graduate student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My currect ~~engineering~~ research interest lies in LLMs.
+Hi! I’m Zhibin Gou, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My currect research interest lies in LLMs, especially in reasoning and tool use.
 
 
 Education
 ======
 
 - **Aug. 2022 - Jun. 2025 (Expected)** M.Sc., Div. of Information Science and Technology, SIGS, Tsinghua University, Beijing, China.
+<br>*GPA: 4.0/4.0*
 
 - **Sep. 2018 - Jun. 2022** B.Sc., School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China.
+<br>*GPA: 3.84/4.0, Rank: 1%*
 
 
 Publications
@@ -25,11 +27,11 @@ Publications
 
 - [ICLR 2024] *ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving* [[website](https://microsoft.github.io/ToRA/)] [[paper](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)]
 <br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
-<br> ToRA solves math problems by integrating natural language reasoning with program-based tool use.
+<br> ToRA solves math problems by integrating chain-of-thought reasoning with program-based tool use. ToRA-34B is the first open-source LLM that achieves over 50% on MATH, which is competitive with GPT-4 solving problems with programs.
 
 - [ICLR 2024] *CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing* [[paper](https://arxiv.org/abs/2305.11738)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
-<br> CRITIC empowers LLMs to validate and rectify themselves through interaction with external tools.
+<br> The first paper to find that current LLMs struggle with Self-Verification and Self-Correction, and propose tool-augmented critiquing for reliable self-improvement.
 
 - [ACL 2023] *MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction* [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]
 <br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
@@ -48,16 +50,19 @@ Preprints
 - [Arxiv 2024] *SciAgent: Tool-augmented Language Models for Scientific Reasoning* [[paper](https://arxiv.org/abs/2402.11451)]
 <br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen
 
+- [Arxiv 2024] *Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning* [[paper](https://arxiv.org/abs/2403.02333)]
+<br> Yiming Huang, Xiao Liu, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Nan Duan, Weizhu Chen
+
 
 Experience
 ======
 - (Jan. 2023 - Current) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
-<br> Working on large language models.
+<br> Working on large language models, focusing on reasoning and tool-use.
 
 - (Sep. 2021 - May. 2022) Research Intern, General Dialogue Group, Baidu Inc., Beijing, China.
 <br> Mentor: Xinchao Xu, [Hua Wu](https://wuhuanlp.github.io/)
-<br> Working on open-domain dialog: long-term memory, persona and dialog safety.
+<br> Working on open-domain dialog: long-term memory, personalized and safe chatbot.
 
 
 Competitions
