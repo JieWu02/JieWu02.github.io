@@ -21,37 +21,49 @@ Education
 <br>*GPA: 3.84/4.0, Rank: 1%*
 
 
-Publications
+Selected Publications
 ======
 (\* indicates equal contribution)
 
-- [ICLR 2024] *ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving* [[website](https://microsoft.github.io/ToRA/)] [[paper](https://arxiv.org/abs/2309.17452)] [[code](https://github.com/microsoft/ToRA)]
+- [Arxiv 2024] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)]
+<br> Zhenghao Lin\*, **Zhibin Gou**\*, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
+<br>
+Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining math, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
+
+- [ICLR 2024] [*ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving*](https://arxiv.org/abs/2309.17452) [[website](https://microsoft.github.io/ToRA/)][[code](https://github.com/microsoft/ToRA)] (Stars: 800+)
 <br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
 <br> ToRA solves math problems by integrating chain-of-thought reasoning with program-based tool use. ToRA-34B is the first open-source LLM that achieves over 50% on MATH, which is competitive with GPT-4 solving problems with programs.
 
-- [ICLR 2024] *CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing* [[paper](https://arxiv.org/abs/2305.11738)] [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)]
+- [ICLR 2024] [*CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing*](https://arxiv.org/abs/2305.11738) [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)] (Citations: 100+)
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
 <br> The first paper to find that current LLMs struggle with Self-Verification and Self-Correction, and propose tool-augmented critiquing for reliable self-improvement.
 
-- [ACL 2023] *MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction* [[paper](https://arxiv.org/abs/2305.12627)] [[code](https://github.com/ZubinGou/multi-view-prompting)]
+- [ACL 2023] [*MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction*](https://arxiv.org/abs/2305.12627) [[code](https://github.com/ZubinGou/multi-view-prompting)]
 <br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
 <br> MvP is a simple unified generative framework for structure prediction, achieving state-of-the-art performance on 10 datasets across 4 ABSA tasks.
 
-- [ACL 2022 findings] *Long Time No See! Open-Domain Conversation with Long-Term Persona Memory* [[paper]](https://arxiv.org/abs/2203.05797) [[data]](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon)
+- [ACL 2022 findings] [*Long Time No See! Open-Domain Conversation with Long-Term Persona Memory*](https://arxiv.org/abs/2203.05797) [[data](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2022-DuLeMon)]
 <br> Xinchao Xu\*, **Zhibin Gou**\*, Wenquan Wu, Zheng-Yu Niu, Hua Wu, Haifeng Wang, and Shihang Wang
 <br> The first long-term memory conversation task and the largest multi-turn mutual persona chat dataset in Chinese.
 
 
-Preprints
+Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=jTMOma8AAAAJ) for more papers.
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=rho)](https://github.com/microsoft/rho) -->
+
+
+<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=ToRA)](https://github.com/microsoft/ToRA) -->
+
+
+<!-- Preprints
 ======
 - [Arxiv 2024] *CriticBench: Benchmarking LLMs for Critique-Correct Reasoning* [[website](https://criticbench.github.io/)] [[paper](https://arxiv.org/abs/2402.14809)] [[code](https://github.com/CriticBench/CriticBench)]
 <br> Zicheng Lin\*, **Zhibin Gou**\*, Tian Liang, Ruilin Luo, Haowei Liu, Yujiu Yang
 
 - [Arxiv 2024] *SciAgent: Tool-augmented Language Models for Scientific Reasoning* [[paper](https://arxiv.org/abs/2402.11451)]
-<br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen
+<br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen -->
 
-- [Arxiv 2024] *Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning* [[paper](https://arxiv.org/abs/2403.02333)]
-<br> Yiming Huang, Xiao Liu, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Nan Duan, Weizhu Chen
 
 
 Experience
