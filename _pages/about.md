@@ -27,8 +27,7 @@ Selected Publications
 
 - [Arxiv 2024] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)]
 <br> Zhenghao Lin\*, **Zhibin Gou**\*, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
-<br>
-Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining math, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
+<br> Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
 
 - [ICLR 2024] [*ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving*](https://arxiv.org/abs/2309.17452) [[website](https://microsoft.github.io/ToRA/)][[code](https://github.com/microsoft/ToRA)] (Stars: 800+)
 <br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
