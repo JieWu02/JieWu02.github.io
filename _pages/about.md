@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhibin Gou, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My currect research interest lies in LLMs, especially in reasoning and tool use.
+Hi! I’m Zhibin Gou, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My currect research interest lies in LLMs, especially in reasoning and pre-training.
 
 
 Education
@@ -33,9 +33,13 @@ Selected Publications
 <br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
 <br> ToRA solves math problems by integrating chain-of-thought reasoning with program-based tool use. ToRA-34B is the first open-source LLM that achieves over 50% on MATH, which is competitive with GPT-4 solving problems with programs.
 
-- [ICLR 2024] [*CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing*](https://arxiv.org/abs/2305.11738) [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)] (Citations: 100+)
+- [ICLR 2024] [*CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing*](https://arxiv.org/abs/2305.11738) [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)] (Citations: 130+)
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
 <br> The first paper to find that current LLMs struggle with Self-Verification and Self-Correction, and propose tool-augmented critiquing for reliable self-improvement.
+
+- [ACL 2024 findings] *CriticBench: Benchmarking LLMs for Critique-Correct Reasoning* [[website](https://criticbench.github.io/)] [[paper](https://arxiv.org/abs/2402.14809)] [[code](https://github.com/CriticBench/CriticBench)]
+<br> Zicheng Lin\*, **Zhibin Gou**\*, Tian Liang, Ruilin Luo, Haowei Liu, Yujiu Yang
+
 
 - [ACL 2023] [*MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction*](https://arxiv.org/abs/2305.12627) [[code](https://github.com/ZubinGou/multi-view-prompting)]
 <br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
@@ -55,19 +59,17 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=e
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=ToRA)](https://github.com/microsoft/ToRA) -->
 
 
-<!-- Preprints
-======
-- [Arxiv 2024] *CriticBench: Benchmarking LLMs for Critique-Correct Reasoning* [[website](https://criticbench.github.io/)] [[paper](https://arxiv.org/abs/2402.14809)] [[code](https://github.com/CriticBench/CriticBench)]
-<br> Zicheng Lin\*, **Zhibin Gou**\*, Tian Liang, Ruilin Luo, Haowei Liu, Yujiu Yang
+<!-- Preprints -->
+<!-- ====== -->
 
-- [Arxiv 2024] *SciAgent: Tool-augmented Language Models for Scientific Reasoning* [[paper](https://arxiv.org/abs/2402.11451)]
+<!-- - [Arxiv 2024] *SciAgent: Tool-augmented Language Models for Scientific Reasoning* [[paper](https://arxiv.org/abs/2402.11451)]
 <br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen -->
 
 
 
 Experience
 ======
-- (Jan. 2023 - Current) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
+- (Jan. 2023 - May. 2024) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
 <br> Working on large language models, focusing on reasoning and tool-use.
 
