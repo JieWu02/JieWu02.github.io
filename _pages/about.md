@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I’m Zhibin Gou, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022. My currect research interest lies in LLMs, especially in reasoning and pre-training.
+Hi! I’m Zhibin Gou, currently a second-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022.
+
+My long-term research interest lies in AGI, with a current focus on reasoning and pre-training in LLMs.  I am dedicated to developing simple, general, and scalable pathways to achieve AGI.
 
 
 Education
@@ -25,20 +27,21 @@ Selected Publications
 ======
 (\* indicates equal contribution)
 
-- [Arxiv 2024] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)]
-<br> Zhenghao Lin\*, **Zhibin Gou**\*, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
-<br> Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
+
 
 - [ICLR 2024] [*ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving*](https://arxiv.org/abs/2309.17452) [[website](https://microsoft.github.io/ToRA/)][[code](https://github.com/microsoft/ToRA)] (Stars: 800+)
 <br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
 <br> ToRA solves math problems by integrating chain-of-thought reasoning with program-based tool use. ToRA-34B is the first open-source LLM that achieves over 50% on MATH, which is competitive with GPT-4 solving problems with programs.
 
-- [ICLR 2024] [*CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing*](https://arxiv.org/abs/2305.11738) [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)] (Citations: 130+)
+- [ICLR 2024] [*CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing*](https://arxiv.org/abs/2305.11738) [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)] (Citations: 170+)
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
 <br> The first paper to find that current LLMs struggle with Self-Verification and Self-Correction, and propose tool-augmented critiquing for reliable self-improvement.
 
-- [ACL 2024 findings] *CriticBench: Benchmarking LLMs for Critique-Correct Reasoning* [[website](https://criticbench.github.io/)] [[paper](https://arxiv.org/abs/2402.14809)] [[code](https://github.com/CriticBench/CriticBench)]
+- [ACL 2024 findings] [*CriticBench: Benchmarking LLMs for Critique-Correct Reasoning*](https://arxiv.org/abs/2402.14809) [[website](https://criticbench.github.io/)] [[code](https://github.com/CriticBench/CriticBench)]
 <br> Zicheng Lin\*, **Zhibin Gou**\*, Tian Liang, Ruilin Luo, Haowei Liu, Yujiu Yang
+
+- [COLM 2024] [*Exploring the Mystery of Influential Data for Mathematical Reasoning*](https://arxiv.org/pdf/2404.01067)
+<br> Xinzhe Ni, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
 
 
 - [ACL 2023] [*MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction*](https://arxiv.org/abs/2305.12627) [[code](https://github.com/ZubinGou/multi-view-prompting)]
@@ -50,8 +53,6 @@ Selected Publications
 <br> The first long-term memory conversation task and the largest multi-turn mutual persona chat dataset in Chinese.
 
 
-Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=jTMOma8AAAAJ) for more papers.
-
 
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=rho)](https://github.com/microsoft/rho) -->
 
@@ -59,13 +60,25 @@ Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=e
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=ToRA)](https://github.com/microsoft/ToRA) -->
 
 
-<!-- Preprints -->
-<!-- ====== -->
+Preprints
+======
 
-<!-- - [Arxiv 2024] *SciAgent: Tool-augmented Language Models for Scientific Reasoning* [[paper](https://arxiv.org/abs/2402.11451)]
-<br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen -->
+- [Arxiv 2024.06] [*DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence*](https://arxiv.org/pdf/2406.11931)
+<br> DeepSeek-AI
 
 
+- [Arxiv 2024.04] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)]
+<br> Zhenghao Lin\*, **Zhibin Gou**\*, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
+<br> Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
+
+- [Arxiv 2024.03] [*Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning*](https://arxiv.org/abs/2403.02333)
+<br> Yiming Huang, Xiao Liu, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Nan Duan, Weizhu Chen
+
+-  [Arxiv 2024.02] [*SciAgent: Tool-augmented Language Models for Scientific Reasoning*](https://arxiv.org/abs/2402.11451)
+<br> Yubo Ma, **Zhibin Gou**, Junheng Hao, Ruochen Xu, Shuohang Wang, Liangming Pan, Yujiu Yang, Yixin Cao, Aixin Sun, Hany Awadalla, Weizhu Chen
+
+
+<!-- Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=jTMOma8AAAAJ) for more papers. -->
 
 Experience
 ======
@@ -80,9 +93,9 @@ Experience
 
 Competitions
 ======
-- (Nov. 2022) 1st Place (1/54) in NLP task of [NeurIPS 2022 IGLU Challenge](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge)
-- (Aug. 2022) 2nd Place (2/684) in [WAIC 2022 Midu CTC Competition](https://aistudio.baidu.com/aistudio/competition/detail/404/0/leaderboard)
-- (May. 2021) 1st Place (auto eval: 1/862, human eval: 3/862) in Multi-skill Dialog task of [NLPCC 2021 Language and Intelligence Challenge](http://tcci.ccf.org.cn/conference/2021/cfpp.php)
+- (Nov. 2022) **1st** Place (1/54) in NLP task of [NeurIPS 2022 IGLU Challenge](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge)
+- (Aug. 2022) **2nd** Place (2/684) in [WAIC 2022 Midu CTC Competition](https://aistudio.baidu.com/aistudio/competition/detail/404/0/leaderboard)
+- (May. 2021) **1st** Place (auto eval: 1/862, human eval: 3/862) in Multi-skill Dialog task of [NLPCC 2021 Language and Intelligence Challenge](http://tcci.ccf.org.cn/conference/2021/cfpp.php)
 
 
 Honors & Awards
