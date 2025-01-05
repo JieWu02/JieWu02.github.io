@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I’m Zhibin Gou, currently a third-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022.
 
-My long-term research interest lies in AGI, with a current focus on reasoning and pre-training in LLMs.  I am dedicated to developing simple, general, and scalable pathways to achieve AGI.
+My long-term research interest lies in AGI, with a current focus on reasoning in LLMs. I am dedicated to developing simple, general, and scalable pathways to achieve AGI.
 
 
 Education
@@ -27,15 +27,15 @@ Selected Publications
 ======
 (\* indicates equal contribution)
 
-- [ICLR 2024] [*ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving*](https://arxiv.org/abs/2309.17452) [[website](https://microsoft.github.io/ToRA/)][[code](https://github.com/microsoft/ToRA)] (Stars: 900+)
+- [ICLR 2024] [*ToRA: A Tool-Integrated Reasoning Agent for Mathematical Problem Solving*](https://arxiv.org/abs/2309.17452) [[website](https://microsoft.github.io/ToRA/)][[code](https://github.com/microsoft/ToRA)] (Stars: 1k+)
 <br> **Zhibin Gou**\*, Zhihong Shao\*, Yeyun Gong, Yelong Shen, Yujiu Yang, Minlie Huang, Nan Duan, Weizhu Chen
 <br> ToRA solves math problems by integrating chain-of-thought reasoning with program-based tool use. ToRA-34B is the first open-source LLM that achieves over 50% on MATH, which is competitive with GPT-4 solving problems with programs.
 
 - [ICLR 2024] [*CRITIC: Large Language Models Can Self-Correct with Tool-Interactive Critiquing*](https://arxiv.org/abs/2305.11738) [[code](https://github.com/microsoft/ProphetNet/tree/master/CRITIC)] (Citations: 200+)
 <br> **Zhibin Gou**, Zhihong Shao, Yeyun Gong, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
-<br> The first paper to find that current LLMs struggle with Self-Verification and Self-Correction, and propose tool-augmented critiquing for reliable self-improvement.
+<br> The first paper to find that current LLMs struggle with "Self-Verification" and "Self-Correction", and propose tool-augmented critiquing for reliable self-improvement.
 
-- [NeurIPS 2024 Oral] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)]
+- [NeurIPS 2024 Oral] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)] ([🏆Best Paper Runner-up Award](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/))
 <br> Zhenghao Lin\*, **Zhibin Gou**\*, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
 <br> Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
 
@@ -47,6 +47,9 @@ Selected Publications
 
 - [COLM 2024] [*Exploring the Mystery of Influential Data for Mathematical Reasoning*](https://arxiv.org/pdf/2404.01067)
 <br> Xinzhe Ni, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Yujiu Yang, Nan Duan, Weizhu Chen
+
+- [AAAI 2025] [*Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning*](https://arxiv.org/abs/2403.02333)
+<br> Yiming Huang, Xiao Liu, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Nan Duan, Weizhu Chen
 
 - [ACL 2023] [*MvP: Multi-view Prompting Improves Aspect Sentiment Tuple Prediction*](https://arxiv.org/abs/2305.12627) [[code](https://github.com/ZubinGou/multi-view-prompting)]
 <br> **Zhibin Gou**\*, Qingyan Guo\*, Yujiu Yang
@@ -64,28 +67,31 @@ Selected Publications
 <!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=ToRA)](https://github.com/microsoft/ToRA) -->
 
 
-Preprints
+Tech Reports
 ======
+- [Arxiv 2024.12] [*DeepSeek-V3 Technical Report*](https://arxiv.org/pdf/2412.19437)
+<br> DeepSeek-AI
 
 - [Arxiv 2024.06] [*DeepSeek-Coder-V2: Breaking the Barrier of Closed-Source Models in Code Intelligence*](https://arxiv.org/pdf/2406.11931)
 <br> DeepSeek-AI
-
-- [Arxiv 2024.03] [*Key-Point-Driven Data Synthesis with its Enhancement on Mathematical Reasoning*](https://arxiv.org/abs/2403.02333)
-<br> Yiming Huang, Xiao Liu, Yeyun Gong, **Zhibin Gou**, Yelong Shen, Nan Duan, Weizhu Chen
-
 
 
 <!-- Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=jTMOma8AAAAJ) for more papers. -->
 
 Experience
 ======
-- (Jan. 2023 - May. 2024) Reserch Intern, NLC Group, Microsoft Research Asia, Beijing, China.
+- (June. 2024 - Present) Researcher, DeepSeek, Beijing, China.
+<br> Working on LLMs, especially in reasoning and RL.
+<br> Represented work: DeepSeek-R1
+
+- (Jan. 2023 - May. 2024) Research Intern, NLC Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
-<br> Working on large language models, focusing on reasoning and tool-use.
+<br> Working on LLMs, focusing on reasoning and tool-use.
+<br> Represented work: [ToRA](https://microsoft.github.io/ToRA/), [CRITIC](https://arxiv.org/abs/2305.11738), [Rho-1](https://huggingface.co/papers/2404.07965)
 
 - (Sep. 2021 - May. 2022) Research Intern, General Dialogue Group, Baidu Inc., Beijing, China.
 <br> Mentor: Xinchao Xu, [Hua Wu](https://wuhuanlp.github.io/)
-<br> Working on open-domain dialog: long-term memory, personalized and safe chatbot.
+<br> Working on open-domain dialog: long-term memory, personalized chatbot.
 
 
 Competitions
@@ -102,3 +108,8 @@ Honors & Awards
 - National Scholarship (top 1%), Ministry of Education, China, 2020 
 - National Scholarship (top 1%), Ministry of Education, China, 2019 
 - National Scholarship (top 1%), Ministry of Education, China, 2018
+
+
+Service
+======
+- Reviewer: NeurIPS, ICML, ACL, EMNLP, etc.
