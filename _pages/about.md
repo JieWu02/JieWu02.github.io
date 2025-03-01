@@ -69,6 +69,9 @@ Selected Publications
 
 Tech Reports
 ======
+- [Arxiv 2025.01] [*DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning*](https://arxiv.org/pdf/2501.12948)
+<br> DeepSeek-AI
+
 - [Arxiv 2024.12] [*DeepSeek-V3 Technical Report*](https://arxiv.org/pdf/2412.19437)
 <br> DeepSeek-AI
 
@@ -82,7 +85,7 @@ Experience
 ======
 - (June. 2024 - Present) Researcher, DeepSeek, Beijing, China.
 <br> Working on LLMs, especially in reasoning and RL.
-<br> Represented work: DeepSeek-R1
+<br> Represented work: [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
 
 - (Jan. 2023 - May. 2024) Research Intern, NLC Group, Microsoft Research Asia, Beijing, China.
 <br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
