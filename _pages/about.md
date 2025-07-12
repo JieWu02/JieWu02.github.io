@@ -8,16 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jie Wu, currently a second-year M.S. student in the Division of Information Science and Technology at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
+Hi! I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
 
 Education
 ======
 
-- **Aug. 2022 - Jun. 2025 (Expected)** M.Sc., Div. of Information Science and Technology, SIGS, Tsinghua University, Beijing, China.
-<br>*GPA: 4.0/4.0*
+- **Aug. 2024 - Jun. 2027 (Expected)** M.Sc., SIGS, Tsinghua University, ShenZhen, China.
+<br>*GPA: 3.81/4.0*
 
-- **Sep. 2018 - Jun. 2022** B.Sc., School of Computer Science, Beijing University of Posts and Telecommunications, Beijing, China.
-<br>*GPA: 3.84/4.0, Rank: 1%*
+- **Sep. 2020 - Jun. 2024** B.Sc., School of Computer Science, Wuhan Univeristy, Wuhan, China.
+<br>*GPA: 3.98/4.0, Rank: 1/223*
 
 
 Selected Publications
