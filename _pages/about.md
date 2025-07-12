@@ -38,24 +38,23 @@ Selected Publications
 
 Experience
 ======
-- (June. 2024 - Present) Researcher, DeepSeek, Beijing, China.
-<br> Working on LLMs, especially in reasoning and RL.
-<br> Represented work: [DeepSeek-R1](https://arxiv.org/pdf/2501.12948)
+- (Nov. 2024 - Present) Research Intern, Microsoft, Beijing, China.
+- <br> Mentor: [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
+<br> Working on post-training for Code LLMs
 
-- (Jan. 2023 - May. 2024) Research Intern, NLC Group, Microsoft Research Asia, Beijing, China.
-<br> Mentor: [Yeyun Gong](https://www.microsoft.com/en-us/research/people/yegong/), [Weizhu Chen](https://www.microsoft.com/en-us/research/people/wzchen/)
-<br> Working on LLMs, focusing on reasoning and tool-use.
-<br> Represented work: [ToRA](https://microsoft.github.io/ToRA/), [CRITIC](https://arxiv.org/abs/2305.11738), [Rho-1](https://huggingface.co/papers/2404.07965)
+- (May. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
+<br> Mentor: [Zuchao Li]([https://www.microsoft.com/en-us/research/people/yegong/](https://zcli-charlie.github.io/))
+<br> Working on enhancing complex reasoning capability of LLMs in cross-document reasoning tasks.
 
-- (Sep. 2021 - May. 2022) Research Intern, General Dialogue Group, Baidu Inc., Beijing, China.
-<br> Mentor: Xinchao Xu, [Hua Wu](https://wuhuanlp.github.io/)
-<br> Working on open-domain dialog: long-term memory, personalized chatbot.
+- (May. 2023 - May. 2024) Research Intern, AIM Lab, Wuhan University, Wuhan, China.
+<br> Mentor: [Zheng Wang](https://wangzwhu.github.io/home/)
+<br> Working on detection for multi-modal misinformation.
 
 
 Competitions
 ======
 - (Nov. 2024) **1st** Place (1/150) in LLM merging task of [NeurIPS 2024 LLM Merging Competition](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard)
-- (Nov. 2024) **4nd** Place (2/684) in [Kingsoft Office 2024 Algorithm Challenge: Chinese Text Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board)
+- (Nov. 2024) **4th** Place (4/53) in [Kingsoft Office 2024 Algorithm Challenge: Chinese Text Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board)
 
 Honors & Awards
 ======
