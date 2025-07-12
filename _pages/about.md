@@ -54,10 +54,8 @@ Experience
 
 Competitions
 ======
-- (Nov. 2022) **1st** Place (1/54) in NLP task of [NeurIPS 2022 IGLU Challenge](https://www.aicrowd.com/challenges/neurips-2022-iglu-challenge)
-- (Aug. 2022) **2nd** Place (2/684) in [WAIC 2022 Midu CTC Competition](https://aistudio.baidu.com/aistudio/competition/detail/404/0/leaderboard)
-- (May. 2021) **1st** Place (auto eval: 1/862, human eval: 3/862) in Multi-skill Dialog task of [NLPCC 2021 Language and Intelligence Challenge](http://tcci.ccf.org.cn/conference/2021/cfpp.php)
-
+- (Nov. 2024) **1st** Place (1/150) in LLM merging task of [NeurIPS 2024 LLM Merging Competition](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard)
+- (Nov. 2024) **4nd** Place (2/684) in [Kingsoft Office 2024 Algorithm Challenge: Chinese Text Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board）
 
 Honors & Awards
 ======
