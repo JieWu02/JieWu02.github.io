@@ -54,8 +54,8 @@ Experience
 
 Competitions
 ======
-- (Nov. 2024) **1st** Place (1/150) in [NeurIPS 2024 LLM Merging Competition](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard).
-- (Nov. 2024) **4th** Place (4/53) in [Kingsoft Office Chineses Grammar Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board).
+- (Nov. 2024) 1st Place (1/150) in [NeurIPS 2024 LLM Merging Competition](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard).
+- (Nov. 2024) 4th Place (4/53) in [Kingsoft Office Chineses Grammar Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board).
 
 Honors & Awards
 ======
