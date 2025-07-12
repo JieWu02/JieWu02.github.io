@@ -19,7 +19,7 @@ Education
 <br>*GPA: 3.81/4.0*
 
 - **Sep. 2020 - Jun. 2024** B.Sc., School of Computer Science, Wuhan Univeristy, China.
-<br>*GPA: 3.98/4.0, Rank: 1/223*
+<br>*GPA: 3.98/4.0, Rank: 1/226*
 
 
 Selected Publications
