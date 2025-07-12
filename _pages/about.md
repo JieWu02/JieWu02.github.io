@@ -15,7 +15,7 @@ I am focusing on post-training for Code LLMs, under the advice of Researcher [Xi
 Education
 ======
 
-- **Aug. 2024 - Jun. 2027** M.Sc., SIGS, Tsinghua University, ShenZhen, China.
+- **Aug. 2024 - Jun. 2027** M.Sc., SIGS, Tsinghua University, Shenzhen, China.
 <br>GPA: 3.81/4.0
 
 - **Sep. 2020 - Jun. 2024** B.Sc., School of Computer Science, Wuhan Univeristy, China.
