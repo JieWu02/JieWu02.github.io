@@ -1,17 +1,14 @@
 ---
 permalink: /
-title: "Zhibin Gou 苟志斌"
-excerpt: "Zhibin Gou 苟志斌"
+title: "Jie Wu 武杰"
+excerpt: "Jie Wu 武杰"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I’m Zhibin Gou, currently a third-year M.S. student at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Before that, I received my bachelor's degree in Computer Science from Beijing University of Posts and Telecommunications in Jun. 2022.
-
-My long-term research interest lies in AGI, with a current focus on reasoning in LLMs. I am dedicated to developing simple, general, and scalable pathways to achieve AGI.
-
+Hi! I'm Jie Wu, currently a second-year M.S. student in the Division of Information Science and Technology at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
 
 Education
 ======
