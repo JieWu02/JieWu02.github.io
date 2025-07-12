@@ -26,7 +26,7 @@ Selected Publications
 ======
 (\* indicates equal contribution)
 
-- [arXiv 2025] [*IterPref: Focal Preference Learning for Code Generation via Iterative Debugging*](https://arxiv.org/abs/2503.02783)
+- [arXiv 2025] [*Focal Preference Learning for Code Generation via Iterative Debugging*](https://arxiv.org/abs/2503.02783)
 <br> **Jie Wu**\*, Haoling Li\*, Xin Zhang, Jianwen Luo, Yangyu Huang, Ruihang Chu, Yujiu Yang, Scarlett Li
 
 - [ICML 2025] [*EpiCoder: Encompassing Diversity and Complexity in Code Generation*](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]
