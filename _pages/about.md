@@ -24,22 +24,19 @@ Selected Publications
 ======
 (\* indicates equal contribution)
 
-- [NeurIPS 2024 Oral] [*Rho-1: Not All Tokens Are What You Need*](https://huggingface.co/papers/2404.07965) [[code](https://github.com/microsoft/ToRA)] ([🏆Best Paper Runner-up Award](https://blog.neurips.cc/2024/12/10/announcing-the-neurips-2024-best-paper-awards/))
-<br> Zhenghao Lin\*, **Zhibin Gou**\*, Yeyun Gong, Xiao Liu, Yelong Shen, Ruochen Xu, Chen Lin, Yujiu Yang, Jian Jiao, Nan Duan, Weizhu Chen
-<br> Rho-1 introduces Selective Language Modeling (SLM), a method for token-level pretraining data selection. By applying SLM to math continual pretraining, it enhances math reasoning by over 16%, reaching baseline performance 5-10x faster.
+- [ICML 2025] [*EpiCoder: Encompassing Diversity and Complexity in Code Generation*](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]
+<br> Yaoxiang Wang, Haoling Li, Xin Zhang, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li
+<br> We introduce a novel feature tree-based synthesis framework for generating diverse and complex code instruction data, and present the EpiCoder series that achieve SOTA in both function and file-level code generation tasks.
 
+- [ACMMM 2024] [*Assess and Guide: Multi-modal Fake News Detection via Decision Uncertainty*](https://dl.acm.org/doi/abs/10.1145/3689090.3689389)
+<br> **Jie Wu**, Danni Xu, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang
+<br> We distinguish among uni-modal information sources through accurate estimation of their decision uncertainty, employing this uncertainty as a confidence measure and indicator of information imbalance to guide feature fusion.
 
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=rho)](https://github.com/microsoft/rho) -->
-
-<!-- [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=microsoft&repo=ToRA)](https://github.com/microsoft/ToRA) -->
-
-
-<!-- Please see my [Google Scholar profile](https://scholar.google.com/citations?hl=en&user=jTMOma8AAAAJ) for more papers. -->
 
 Experience
 ======
 - (Nov. 2024 - Present) Research Intern, Microsoft, Beijing, China.
-- <br> Mentor: [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
+<br> Mentor: [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
 <br> Working on post-training for Code LLMs
 
 - (May. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
