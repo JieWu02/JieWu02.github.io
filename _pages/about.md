@@ -48,7 +48,7 @@ Experience
 <br> Mentor: [Zuchao Li](https://zcli-charlie.github.io/)
 <br> Working on enhancing complex reasoning capability of LLMs in multi-doc reasoning.
 
-- (May. 2023 - May. 2024) Research Intern, AIM Lab, Wuhan University, Wuhan, China.
+- (Apri. 2023 - May. 2024) Research Intern, AIM Lab, Wuhan University, Wuhan, China.
 <br> Mentor: [Zheng Wang](https://wangzwhu.github.io/home/)
 <br> Working on detection for multi-modal misinformation via decision undertainty.
 
