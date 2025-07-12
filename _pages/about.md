@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
+Hi! I'm Jie Wu, currently a first-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
 
 My current research focuses on post-training for Code LLMs, under advise by [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
@@ -56,7 +56,7 @@ Experience
 Competitions
 ======
 - (Nov. 2024) **1st** Place (1/150) in [NeurIPS 2024 LLM Merging Competition](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard)
-- (Nov. 2024) **4th** Place (4/53) in [Kingsoft Office 2024 Algorithm Challenge: Chinese Text Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board)
+- (Nov. 2024) **4th** Place (4/53) in [Kingsoft Office Text Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board)
 
 Honors & Awards
 ======
