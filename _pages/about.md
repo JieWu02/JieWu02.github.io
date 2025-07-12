@@ -13,7 +13,7 @@ Hi! I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence 
 Education
 ======
 
-- **Aug. 2024 - Jun. 2027 (Expected)** M.Sc., SIGS, Tsinghua University, ShenZhen, China.
+- **Aug. 2024 - Jun. 2027** M.Sc., SIGS, Tsinghua University, ShenZhen, China.
 <br>*GPA: 3.81/4.0*
 
 - **Sep. 2020 - Jun. 2024** B.Sc., School of Computer Science, Wuhan Univeristy, Wuhan, China.
