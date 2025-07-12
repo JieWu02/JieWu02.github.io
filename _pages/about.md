@@ -45,11 +45,11 @@ Experience
 <br> Working on post-training for Code LLMs.
 
 - (May. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
-<br> Mentor: [Zuchao Li](https://zcli-charlie.github.io/)
+<br> Advisor: [Zuchao Li](https://zcli-charlie.github.io/)
 <br> Working on enhancing complex reasoning capability of LLMs in multi-doc reasoning.
 
 - (Apri. 2023 - May. 2024) Research Intern, AIM Lab, Wuhan University, Wuhan, China.
-<br> Mentor: [Zheng Wang](https://wangzwhu.github.io/home/)
+<br> Advisor: [Zheng Wang](https://wangzwhu.github.io/home/)
 <br> Working on detection for multi-modal misinformation via decision undertainty.
 
 
