@@ -10,6 +10,8 @@ redirect_from:
 
 Hi! I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
 
+My current research focuses on post-training for Code LLMs, under advise by [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
+
 Education
 ======
 
@@ -28,8 +30,11 @@ Selected Publications
 <br> Yaoxiang Wang, Haoling Li, Xin Zhang, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li
 <br> We introduce a novel feature tree-based synthesis framework for generating diverse and complex code instruction data, and present the EpiCoder series that achieve SOTA in both function and file-level code generation tasks.
 
+- [arXiv 2025] [*IterPref: Focal Preference Learning for Code Generation via Iterative Debugging*](https://arxiv.org/abs/2503.02783)
+<br> **Jie Wu**\*, Haoling Li\*, Xin Zhang, Jianwen Luo, Yangyu Huang, Ruihang Chu, Yujiu Yang, Scarlett Li
+
 - [ACMMM 2024] [*Assess and Guide: Multi-modal Fake News Detection via Decision Uncertainty*](https://dl.acm.org/doi/abs/10.1145/3689090.3689389)
-<br> **Jie Wu**, Danni Xu, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang
+<br> **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang
 <br> We distinguish among uni-modal information sources through accurate estimation of their decision uncertainty, employing this uncertainty as a confidence measure and indicator of information imbalance to guide feature fusion.
 
 
