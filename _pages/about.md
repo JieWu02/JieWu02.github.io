@@ -16,10 +16,10 @@ Education
 ======
 
 - **Aug. 2024 - Jun. 2027** M.Sc., SIGS, Tsinghua University, ShenZhen, China.
-<br>*GPA: 3.81/4.0*
+<br>GPA: 3.81/4.0
 
 - **Sep. 2020 - Jun. 2024** B.Sc., School of Computer Science, Wuhan Univeristy, China.
-<br>*GPA: 3.98/4.0, Rank: 1/226*
+<br>GPA: 3.98/4.0, Rank: 1/226
 
 
 Selected Publications
