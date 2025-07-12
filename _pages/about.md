@@ -39,17 +39,17 @@ Selected Publications
 
 Experience
 ======
-- (Nov. 2024 - Present) Research Intern, Microsoft, Beijing, China.
+- (Nov. 2024 - Present) Research Intern, Microsoft Asia, Beijing, China.
 <br> Mentor: [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
 <br> Working on post-training for Code LLMs.
 
-- (May. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
+- (June. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
 <br> Advisor: [Zuchao Li](https://zcli-charlie.github.io/)
-<br> Working on enhancing complex reasoning capability of LLMs in multi-doc reasoning.
+<br> Working on improving reasoning capability of LLMs in multi-doc reasoning.
 
-- (Apri. 2023 - May. 2024) Research Intern, AIM Lab, Wuhan University, Wuhan, China.
+- (Apri. 2023 - May. 2024) Research Intern, [AIM Lab](https://wangzwhu.github.io/home/member.html), Wuhan University, Wuhan, China.
 <br> Advisor: [Zheng Wang](https://wangzwhu.github.io/home/)
-<br> Working on detection for multi-modal misinformation via decision undertainty.
+<br> Working on effective detection for multi-modal misinformation.
 
 
 Competitions
