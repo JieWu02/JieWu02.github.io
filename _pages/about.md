@@ -24,7 +24,6 @@ Education
 
 Selected Publications
 ======
-(\* indicates equal contribution)
 
 - [arXiv 2025] [Focal Preference Learning for Code Generation via Iterative Debugging](https://arxiv.org/abs/2503.02783)
 <br> **Jie Wu**\*, Haoling Li\*, Xin Zhang\*, Jianwen Luo, Yangyu Huang, Ruihang Chu †, Yujiu Yang, Scarlett Li
