@@ -22,7 +22,7 @@ Education
 <br>GPA: 3.98/4.0, Rank: 1/226
 
 
-Selected Publications
+Publications
 ======
 
 - [arXiv 2025] [Focal Preference Learning for Code Generation via Iterative Debugging](https://arxiv.org/abs/2503.02783)
