@@ -42,15 +42,15 @@ Experience
 ======
 - (Nov. 2024 - Present) Research Intern, Microsoft, Beijing, China.
 <br> Mentor: [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
-<br> Working on post-training for Code LLMs
+<br> Working on post-training for Code LLMs.
 
 - (May. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
-<br> Mentor: [Zuchao Li]([https://www.microsoft.com/en-us/research/people/yegong/](https://zcli-charlie.github.io/))
+<br> Mentor: [Zuchao Li](https://zcli-charlie.github.io/)
 <br> Working on enhancing complex reasoning capability of LLMs in cross-document reasoning tasks.
 
 - (May. 2023 - May. 2024) Research Intern, AIM Lab, Wuhan University, Wuhan, China.
 <br> Mentor: [Zheng Wang](https://wangzwhu.github.io/home/)
-<br> Working on detection for multi-modal misinformation.
+<br> Working on detection for multi-modal misinformation via decision undertainty.
 
 
 Competitions
