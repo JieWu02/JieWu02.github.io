@@ -7,14 +7,14 @@
 
 # Site Settings
 locale: "en-US"
-title: "Zhibin Gou"
+title: "Jie Wu"
 title_separator: "-"
-name: &name "Zhibin Gou"
+name: &name "Jie Wu"
 description: &description "Graduate student at Tsinghua University"
-url: https://zubingou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://jiewu02.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 # url: http://localhost:4000 # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl: "" # the subpath of your site, e.g. "/blog"
-repository: "zubingou/zubingou.github.io"
+repository: "JieWu02/JieWu02.github.io"
 teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs: false # true, false (default)
 words_per_minute: 160
