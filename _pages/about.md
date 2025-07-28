@@ -10,7 +10,7 @@ redirect_from:
 
 Hi! I'm Jie Wu, currently a first-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). 
 
-Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University in June 2024, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
+Prior to this, I received my Bachelor's degree in Computer Science from Wuhan University, where I was fortunate to work under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
 
 I am focusing on post-training for Code LLMs, under the advice of Researcher [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
