@@ -25,9 +25,11 @@ Education
 
 Publications
 ======
+- [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models]
+<br> Jiani Guo, Zuchao Li, **Jie Wu**, Qianren Wang, Yun Li, Lefei Zhang†, hai zhao†, Yujiu Yang
 
-- [arXiv 2025] [Focal Preference Learning for Code Generation via Iterative Debugging](https://arxiv.org/abs/2503.02783)
-<br> **Jie Wu**\*, Haoling Li\*, Xin Zhang\*, Jianwen Luo, Yangyu Huang, Ruihang Chu †, Yujiu Yang, Scarlett Li
+- [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783)[code]
+<br> **Jie Wu**\*, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li
 
 - [ICML 2025] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]
 <br> Yaoxiang Wang\*, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang†, Jinsong Su†, Qi Chen, Scarlett Li
