@@ -25,7 +25,7 @@ Education
 
 Publications
 ======
-- [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models]
+- [EMNLP 2025 Main] ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models
 <br> Jiani Guo, Zuchao Li, **Jie Wu**, Qianren Wang, Yun Li, Lefei Zhang†, hai zhao†, Yujiu Yang
 
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783)[code]
