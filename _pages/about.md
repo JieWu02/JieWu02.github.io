@@ -8,9 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jie Wu, currently a first-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). 
-
-Prior to this, I studied under the guidance of Prof. [Zheng Wang](https://wangzwhu.github.io/home/) and Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/).
+Hi! I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). 
 
 I am focusing on post-training for Code LLMs, under the advice of Researcher [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
@@ -36,7 +34,7 @@ Publications
 <br> Jiani Guo, Zuchao Li, **Jie Wu**, Qianren Wang, Yun Li, Lefei Zhang†, Hai Zhao†, Yujiu Yang
 
 - [MM MIS'24 Oral] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
-<br> **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†
+<br> **Jie Wu**\*, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†
 <br> We distinguish among uni-modal information sources through accurate estimation of their decision uncertainty, employing this uncertainty as a confidence measure and indicator of information imbalance to guide feature fusion.
 
 
