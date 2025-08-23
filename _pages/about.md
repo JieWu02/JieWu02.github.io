@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). 
+Hi. I'm Jie Wu, currently a second-year M.S. student in Artificial Intelligence at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua University, where I am fortunate to be advised by Prof. [Yujiu Yang](https://sites.google.com/view/iigroup-thu/about). 
 
 I am focusing on post-training for Code LLMs, under the advice of Researcher [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
