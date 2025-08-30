@@ -25,6 +25,7 @@ Publications
 ======
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [code]
 <br> **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li
+<br> Target-DPO leverages the idea of iterative debugging to tackle the challenges in Code LLM preference learning, enabling more focused alignment on critical error tokens, and achieves significant performance gains on diverse coding tasks.
 
 - [ICML 2025 Poster] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]
 <br> Yaoxiang Wang, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang†, Jinsong Su†, Qi Chen, Scarlett Li
@@ -35,7 +36,6 @@ Publications
 
 - [MM MIS'24 Oral] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
 <br> **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†
-<br> We distinguish among uni-modal information sources through accurate estimation of their decision uncertainty, employing this uncertainty as a confidence measure and indicator of information imbalance to guide feature fusion.
 
 
 Experience
