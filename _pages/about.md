@@ -44,7 +44,7 @@ Experience
 <br> Mentor: Researcher [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
 <br> Working on post-training for Code LLMs.
 
-- (June. 2024 - Sep. 2024) Research Intern, Wuhan University, Wuhan, China.
+- (June. 2024 - Sep. 2024) Research Intern, Myth Lab, Wuhan University, Wuhan, China.
 <br> Advisor: Assoc. Prof. [Zuchao Li](https://zcli-charlie.github.io/)
 <br> Working on improving reasoning capability of LLMs in multi-doc reasoning.
 
