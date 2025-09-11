@@ -35,7 +35,7 @@ Publications
 <br> Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang
 
 - [ICONIP 2025] [DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models][code]
-<br> Jiani Guo, Xiangke Zeng, Jie Wu, Zuchao Li†
+<br> Jiani Guo, Xiangke Zeng, **Jie Wu**, Zuchao Li†
 
 - [MM MIS'24 Oral] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
 <br> **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†
