@@ -34,7 +34,7 @@ Publications
 - [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]
 <br> Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang
 
-- [ICONIP 2025] [DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models][code]
+- [ICONIP 2025] DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models [code]
 <br> Jiani Guo, Xiangke Zeng, **Jie Wu**, Zuchao Li†
 
 - [MM MIS'24 Oral] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
