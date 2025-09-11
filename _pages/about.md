@@ -23,7 +23,7 @@ Education
 
 Publications
 ======
-- [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [code]
+- [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]
 <br> **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li
 <br> Target-DPO leverages the idea of iterative debugging to tackle the challenges in Code LLM preference learning, enabling more focused alignment on critical error tokens, and achieves significant performance gains on diverse coding tasks.
 
