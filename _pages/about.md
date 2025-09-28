@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm Jie Wu, a 2-year M.S. student majoring in AI at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua, with Prof. [Yang](https://sites.google.com/view/iigroup-thu/about). 
+Hi. I'm Jie Wu, a second-year M.S. student at Tsinghua with Prof. [Yang](https://sites.google.com/view/iigroup-thu/about). 
 
 I am working for Code AGI, under the advice of [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
@@ -44,7 +44,7 @@ Publications
 Experience
 ======
 - (Nov. 2024 - Present) Research Intern, Microsoft Asia, Beijing, China.
-<br> Mentor: Researcher [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
+<br> Mentor: Independent Researcher [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42)
 <br> Working on post-training for Code LLMs.
 
 - (June. 2024 - Sep. 2024) Research Intern, Myth Lab, Wuhan University, Wuhan, China.
