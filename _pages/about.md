@@ -10,7 +10,7 @@ redirect_from:
 
 I'm Jie Wu, a 2-year M.S. student majoring in AI at [SIGS](https://www.sigs.tsinghua.edu.cn/en/), Tsinghua, with Prof. [Yang](https://sites.google.com/view/iigroup-thu/about). 
 
-I am focusing on post-training for Code LLMs, under the advice of [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
+I am working for Code AGI, under the advice of [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
 Education
 ======
