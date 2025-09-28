@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm Jie Wu, a second-year M.S. student at Tsinghua with Prof. [Yang](https://sites.google.com/view/iigroup-thu/about). 
+Hi. I'm Jie Wu, a second-year M.S. student at Tsinghua with Prof. [Yang](https://iigroup.github.io/about/). 
 
 I am working for Code AGI, under the advice of [Xin Zhang](https://openreview.net/profile?id=~Xin_Zhang42).
 
