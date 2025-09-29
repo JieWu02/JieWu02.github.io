@@ -26,7 +26,9 @@ Publications
 ## 🧑‍💻 Code-focused Works
 
 - [Preprint 2025] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198) ([#1 Paper of the day, huggingface](https://huggingface.co/papers/2509.16198))
-<br> Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang  
+<span style="font-size:90%">
+<br> Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
+</span>
 📝 Generating your repository from scratch with repository planning graph.
 
 - [Preprint 2025] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106) ([#1 Paper of the day, huggingface](https://huggingface.co/papers/2508.18106))
@@ -46,19 +48,15 @@ Yaoxiang Wang, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zho
 
 - [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]  
 Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang  
-🧩 Tree-oriented MapReduce framework for efficient long-context reasoning.
 
 - [NeurIPS 2025] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [[code](https://github.com/alchemistyzz/PeRL)]  
 Yizhen Zhang, Yang Ding, Shuoshuo Zhang, Xinchen Zhang, Haoling Li, Zhong-zhi Li, Peijie Wang, **Jie Wu**, Lei Ji, Yelong Shen, Yujiu Yang, Yeyun Gong  
-🔀 Permutation-enhanced RL method for interleaved multimodal reasoning.
 
 - [NeurIPS 2025 LMC (oral)] [Efficiently Building Large Language Models through Merging](https://openreview.net/forum?id=rJ1miae6PJ)  
 Yizhen Zhang, Yang Ding, **Jie Wu**, Yujiu Yang  
-🏗️ Efficient construction of LLMs via model merging.
 
 - [Multimedia 2024 MIS (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]  
 **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†  
-📰 Decision uncertainty modeling for multimodal fake news detection.
 
 
 
