@@ -25,12 +25,12 @@ Publications
 ======
 ## 🧑‍💻 Code-focused Works
 
-- [Preprint 2025] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198) [#1 Paper of the day](https://huggingface.co/papers/2509.16198)
-Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang  
+- [Preprint 2025] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198) ([#1 Paper of the day, huggingface](https://huggingface.co/papers/2509.16198))
+<br> Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang  
 📝 Generating your repository from scratch with repository planning graph.
 
-- [Preprint 2025] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106) [#1 Paper of the day](https://huggingface.co/papers/2508.18106)
-Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, **Jie Wu**, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang  
+- [Preprint 2025] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106) ([#1 Paper of the day, huggingface](https://huggingface.co/papers/2508.18106))
+<br> Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, **Jie Wu**, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang  
 🛡️ A repository-level benchmark for comprehensively and reliably assessing the security of AI-generated code.
 
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]  
