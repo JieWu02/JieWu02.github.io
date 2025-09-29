@@ -25,39 +25,45 @@ Publications
 ======
 ## 🧑‍💻 Code-focused Works
 
-- [Preprint 2025] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198)
-<br> Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
-<br> *Generating your repository from scratch with repository planning graph.*
+- [Preprint 2025] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198)  
+  Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang  
+  > 📝 *Generating your repository from scratch with repository planning graph.*
 
-- [Preprint 2025] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106)
-<br> Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, **Jie Wu**, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang
-<br> *A repository-level benchmark for comprehensively and reliablely assessing the security of AI-generated code.*
+- [Preprint 2025] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106)  
+  Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, **Jie Wu**, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang  
+  > 🛡️ *A repository-level benchmark for comprehensively and reliably assessing the security of AI-generated code.*
 
-- [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]
-<br> **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li
-<br> *Leveraging the idea of iterative debugging to refine Code LLM thorugh focused alignment on critical error tokens.*
+- [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]  
+  **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li  
+  > 🔧 *Leveraging the idea of iterative debugging to refine Code LLM through focused alignment on critical error tokens.*
 
-- [ICML 2025] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]
-<br> Yaoxiang Wang, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang†, Jinsong Su†, Qi Chen, Scarlett Li
-<br> *A novel feature tree-based synthesis framework for generating diverse and complex code instruction data.*
+- [ICML 2025] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]  
+  Yaoxiang Wang, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang†, Jinsong Su†, Qi Chen, Scarlett Li  
+  > 🌳 *A novel feature tree-based synthesis framework for generating diverse and complex code instruction data.*
+
 
 ## 🤝 Collaborative Works
 
-- [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]
-<br> Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang
+- [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]  
+  Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang  
+  > 🧩 *Tree-oriented MapReduce framework for efficient long-context reasoning.*
 
-- [NeurIPS 2025] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [code](https://github.com/alchemistyzz/PeRL)
-<br> Yizhen Zhang, Yang Ding, Shuoshuo Zhang, Xinchen Zhang, Haoling Li, Zhong-zhi Li, Peijie Wang, **Jie Wu**, Lei Ji, Yelong Shen, Yujiu Yang, Yeyun Gong
+- [NeurIPS 2025] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [[code](https://github.com/alchemistyzz/PeRL)]  
+  Yizhen Zhang, Yang Ding, Shuoshuo Zhang, Xinchen Zhang, Haoling Li, Zhong-zhi Li, Peijie Wang, **Jie Wu**, Lei Ji, Yelong Shen, Yujiu Yang, Yeyun Gong  
+  > 🔀 *Permutation-enhanced RL method for interleaved multimodal reasoning.*
 
-- [NeurIPS 2025 LMC (oral)] [	
-Efficiently Building Large Language Models through Merging](https://openreview.net/forum?id=rJ1miae6PJ) 
-<br> Yizhen Zhang, Yang Ding, **Jie Wu**, Yujiu Yang
+- [NeurIPS 2025 LMC (oral)] [Efficiently Building Large Language Models through Merging](https://openreview.net/forum?id=rJ1miae6PJ)  
+  Yizhen Zhang, Yang Ding, **Jie Wu**, Yujiu Yang  
+  > 🏗️ *Efficient construction of LLMs via model merging.*
 
-- [ICONIP 2025] DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models [code]
-<br> Jiani Guo, Xiangke Zeng, **Jie Wu**, Zuchao Li
+- [ICONIP 2025] DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models [code]  
+  Jiani Guo, Xiangke Zeng, **Jie Wu**, Zuchao Li  
+  > 🎭 *Inducing diverse hallucinations to improve factuality control.*
 
-- [Multimedia 2024 MIS (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
-<br> **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†
+- [Multimedia 2024 MIS (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]  
+  **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†  
+  > 📰 *Decision uncertainty modeling for multimodal fake news detection.*
+
 
 
 Experience
