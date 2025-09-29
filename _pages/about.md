@@ -25,14 +25,15 @@ Publications
 ======
 - [Preprint 2025] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198)
 <br> Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
+<br> Generating your repository from scratch with repository planning graph.
 
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]
 <br> **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li
-<!--<br> Target-DPO leverages the idea of iterative debugging to tackle the challenges in Code LLM preference learning, enabling more focused alignment on critical error tokens, and achieves significant performance gains on diverse coding tasks.-->
+<br> Leveraging the idea of iterative debugging to refine Code LLM thorugh focused alignment on critical error tokens.
 
 - [ICML 2025] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]
 <br> Yaoxiang Wang, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang†, Jinsong Su†, Qi Chen, Scarlett Li
-<!--<br> We introduce a novel feature tree-based synthesis framework for generating diverse and complex code instruction data, and present the EpiCoder series that achieve SOTA in both function and file-level code generation tasks.-->
+<br> A novel feature tree-based synthesis framework for generating diverse and complex code instruction data.
 
 - [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]
 <br> Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang
