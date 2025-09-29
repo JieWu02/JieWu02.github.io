@@ -29,6 +29,10 @@ Publications
 <br> Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
 <br> *Generating your repository from scratch with repository planning graph.*
 
+- [Preprint 2025] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106)
+<br> Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, **Jie Wu**, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang
+<br> *A repository-level benchmark for comprehensively and reliablely assessing the security of AI-generated code.*
+
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]
 <br> **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li
 <br> *Leveraging the idea of iterative debugging to refine Code LLM thorugh focused alignment on critical error tokens.*
@@ -42,10 +46,17 @@ Publications
 - [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]
 <br> Jiani Guo, Zuchao Li†, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang
 
+- [NeurIPS 2025] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [code](https://github.com/alchemistyzz/PeRL)
+<br> Yizhen Zhang, Yang Ding, Shuoshuo Zhang, Xinchen Zhang, Haoling Li, Zhong-zhi Li, Peijie Wang, **Jie Wu**, Lei Ji, Yelong Shen, Yujiu Yang, Yeyun Gong
+
+- [NeurIPS 2025 LMC (oral)] [	
+Efficiently Building Large Language Models through Merging](https://openreview.net/forum?id=rJ1miae6PJ) 
+<br> Yizhen Zhang, Yang Ding, **Jie Wu**, Yujiu Yang
+
 - [ICONIP 2025] DHI: Leveraging Diverse Hallucination Induction for Enhanced Contrastive Factuality Control in Large Language Models [code]
 <br> Jiani Guo, Xiangke Zeng, **Jie Wu**, Zuchao Li
 
-- [MM MIS'24 Oral] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
+- [Multimedia 2024 MIS (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]
 <br> **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang†
 
 
