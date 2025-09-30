@@ -29,7 +29,7 @@ Publications
 <br> Jane Luo\*, Xin Zhang\*, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
 <br> 📝 Generating your repository from scratch with repository planning graph.
 
-- [Preprint 2025 ([#1 Paper of the day](https://huggingface.co/papers/2509.16198))] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106)
+- [Preprint 2025 ([#1 Paper of the day](https://huggingface.co/papers/2509.16198))] [ASE: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code](https://arxiv.org/abs/2508.18106) [[code](https://github.com/Tencent/AICGSecEval)] 
 <br> Keke Lian\*, Bin Wang\*, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, **Jie Wu**, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang  
 🛡️ A repository-level benchmark for comprehensively and reliably assessing the security of AI-generated code.
 
