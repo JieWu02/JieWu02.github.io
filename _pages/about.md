@@ -34,11 +34,11 @@ Publications
 🛡️ A repository-level benchmark for comprehensively and reliably assessing the security of AI-generated code.
 
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]  
-**Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu†, Yujiu Yang, Scarlett Li  
+**Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu, Yujiu Yang, Scarlett Li  
 🔧 Leveraging the idea of iterative debugging to refine Code LLM through focused alignment on critical error tokens.
 
 - [ICML 2025] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://openreview.net/forum?id=RAxe7nF4Oz&noteId=hZW2ZVgfaS) [[code](https://github.com/microsoft/EpiCoder)]  
-Yaoxiang Wang\*, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang†, Jinsong Su†, Qi Chen, Scarlett Li  
+Yaoxiang Wang\*, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li  
 🌳 A novel feature tree-based synthesis framework for generating diverse and complex code instruction data.
 
 
