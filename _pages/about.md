@@ -45,7 +45,7 @@ Yaoxiang Wang\*, Haoling Li\*, Xin Zhang\*, **Jie Wu**, Xiao Liu, Wenxiang Hu, Z
 ## 🤝 Collaborative Works
 
 - [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [code]  
-Jiani Guo\*, Zuchao Li, **Jie Wu**\*, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang  
+Jiani Guo\*, **Jie Wu**\*, Zuchao Li, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang  
 
 - [NeurIPS 2025] [PeRL: Permutation-Enhanced Reinforcement Learning for Interleaved Vision-Language Reasoning](https://arxiv.org/abs/2506.14907) [[code](https://github.com/alchemistyzz/PeRL)]  
 Yizhen Zhang\*, Yang Ding\*, Shuoshuo Zhang\*, Xinchen Zhang, Haoling Li, Zhong-zhi Li, Peijie Wang, **Jie Wu**, Lei Ji, Yelong Shen, Yujiu Yang, Yeyun Gong  
