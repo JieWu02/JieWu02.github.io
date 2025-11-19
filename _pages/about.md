@@ -25,7 +25,7 @@ Publications
 ======
 ## 🧑‍💻 Code-focused Works
 
-- [Preprint 2025 ([#1 Paper of the day](https://huggingface.co/papers/2509.16198))] [PRG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198) 
+- [Preprint 2025 ([#1 Paper of the day](https://huggingface.co/papers/2509.16198))] [RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198) 
 <br> Jane Luo\*, Xin Zhang\*, Steven Liu, **Jie Wu**, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Jianfeng Liu, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
 <br> 📝 Generating your repository from scratch with repository planning graph.
 
