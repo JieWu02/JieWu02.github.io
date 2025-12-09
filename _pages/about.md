@@ -10,8 +10,6 @@ redirect_from:
 
 Hi. I'm Jie Wu, a second-year M.S. student at Tsinghua with Prof. [Yang](https://iigroup.github.io/about/). 
 
-I am working for Code AGI, under the advice of [Xin Zhang](https://scholar.google.com/citations?user=qVmmxogAAAAJ&hl=en).
-
 Education
 ======
 
