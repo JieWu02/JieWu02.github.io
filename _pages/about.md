@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm Jie Wu, a M.S. student at Tsinghua with Prof. [Yang](https://iigroup.github.io/about/). I study post-training for LLMs.
+Hi. I'm Jie Wu, a M.S. student at Tsinghua from IIGroup with Prof. [Yang](https://iigroup.github.io/about/). 
+
+I study post-training for LLMs.
 
 Education
 ======
