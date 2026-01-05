@@ -10,7 +10,7 @@ redirect_from:
 
 Hi. I'm Jie Wu, a M.S. student at Tsinghua from IIGroup with Prof. [Yang](https://iigroup.github.io/about/). 
 
-I study post-training for LLMs.
+I study post-training for LLM foundations.
 
 Education
 ======
