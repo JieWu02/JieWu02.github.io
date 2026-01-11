@@ -28,6 +28,7 @@ Publications
 **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu, Yujiu Yang, Scarlett Li
 
 - [EMNLP 2025 Main] [ToM: Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2503.02783) [[code](https://github.com/gjn12-31/ToM)] 
+
 Jiani Guo\*, **Jie Wu**\*, Zuchao Li, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang  
 
 - [Multimedia 2024 MIS (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]  
