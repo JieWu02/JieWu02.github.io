@@ -24,7 +24,8 @@ Education
 Publications
 ======
 
-- [X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests](https://arxiv.org/abs/2503.02783) [[code]([https://github.com/gjn12-31/ToM](https://github.com/JieWu02/X-Coder))] 
+- [X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/X-Coder)]
+- 
 **Jie Wu**, Haoling Li\*, Xin Zhang\*, Jiani Guo, Jane Luo, Steven Liu, Yangyu Huang, Ruihang Chu, Scarlett Li, Yujiu Yang
 
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment]([https://arxiv.org/abs/2503.02783](https://www.arxiv.org/abs/2601.06953)) [[code](https://github.com/JieWu02/Target-DPO)]  
