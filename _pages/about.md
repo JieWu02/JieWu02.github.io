@@ -40,7 +40,7 @@ Publications
 
 Experience
 ======
-- (Nov. 2024 - Dec. 2025) Research Intern, Microsoft Asia, Beijing, China.
+- (Nov. 2024 - Present) Research Intern, Microsoft Asia, Beijing, China.
 <br> Working on post-training for Code LLMs.
 
 Competitions
