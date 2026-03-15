@@ -15,7 +15,7 @@ My research centers on **LLMs for Code**, with a specific focus on:
 * **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953) [![Stars](https://img.shields.io/github/stars/JieWu02/X-Coder?style=social)](https://github.com/JieWu02/X-Coder)).
 * **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) [![Stars](https://img.shields.io/github/stars/microsoft/RPG-ZeroRepo?style=social)](https://github.com/microsoft/RPG-ZeroRepo) & [RPG-Encoder](https://arxiv.org/abs/2602.02084), ICLR 2026) and Terminal agents.
 
-**Vision:** I believe that code agents serve as the fundamental gateway to truly general-purpose AI assistants.
+**Vision:** I believe that code agents serve as the fundamental gateway to truly general AI assistants.
 
 Education
 ======
