@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the **Qwen team** at Alibaba Cloud. Previous, I was fortunate to spend a rewarding year and a half at Microsoft Research Asia, working closely with and learning from Xin Zhang and Haoling Li.
+Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the **Qwen team** at Alibaba Cloud. Previous, I was fortunate to spend a rewarding year and a half at **Microsoft Research Asia**, working closely with and learning from Xin Zhang and Haoling Li.
 
 My research centers on **LLMs for Code**, with a specific focus on:
 * **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694)[![Stars](https://img.shields.io/github/stars/microsoft/EpiCoder?style=social)](https://github.com/microsoft/EpiCoder), ICML 2025; [Target-DPO](https://arxiv.org/abs/2503.02783) [![Stars](https://img.shields.io/github/stars/JieWu02/Target-DPO?style=social)](https://github.com/JieWu02/Target-DPO), EMNLP 2025).
