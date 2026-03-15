@@ -11,14 +11,9 @@ redirect_from:
 Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the Qwen team at Alibaba Cloud.
 
 My research centers on **LLMs for Code**, with a specific focus on:
-* **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694), ICML 2025; [Target-DPO](https://arxiv.org/abs/2503.02783), EMNLP 2025).
-* **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953)).
-* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) & [RPG-Encoder](https://arxiv.org/abs/2602.02084), ICLR 2026) and Terminal agents.
-
-My research centers on **LLMs for Code**, with a specific focus on:
-* **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694), ICML 2025 <img src="https://img.shields.io/github/stars/JieWu02/EpiCoder?style=flat-square&labelColor=343b41" style="vertical-align: -3px;">; [Target-DPO](https://arxiv.org/abs/2503.02783), EMNLP 2025 <img src="https://img.shields.io/github/stars/JieWu02/Target-DPO?style=flat-square&labelColor=343b41" style="vertical-align: -3px;">).
-* **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953) <img src="https://img.shields.io/github/stars/JieWu02/X-Coder?style=flat-square&labelColor=343b41" style="vertical-align: -3px;">).
-* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) & [RPG-Encoder](https://arxiv.org/abs/2602.02084), ICLR 2026) and Terminal agents.
+* **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694), ICML 2025 ![Stars](https://img.shields.io/github/stars/microsoft/EpiCoder?style=social); [Target-DPO](https://arxiv.org/abs/2503.02783), EMNLP 2025 [![Stars](https://img.shields.io/github/stars/JieWu02/Target-DPO?style=social)](https://github.com/JieWu02/Target-DPO)).
+* **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953) [![Stars](https://img.shields.io/github/stars/JieWu02/X-Coder?style=social)](https://github.com/JieWu02/X-Coder)).
+* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) ![Stars](https://img.shields.io/github/stars/microsoft/RPG-ZeroRepo?style=social) & [RPG-Encoder](https://arxiv.org/abs/2602.02084), ICLR 2026) and Terminal agents.
 
 **Vision:** I believe that code agents serve as the fundamental gateway to truly general-purpose AI assistants.
 
