@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the Qwen team at Alibaba Cloud (Tongyi Group).
+Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the Qwen team at Alibaba Cloud.
 
 My research centers on **LLMs for Code**, with a specific focus on:
 * **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694), ICML 2025; [Target-DPO](https://arxiv.org/abs/2503.02783), EMNLP 2025).
