@@ -8,9 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-Hi. I'm Jie Wu, a M.S. student at Tsinghua from IIGroup with Full Prof. [Yujiu Yang](https://iigroup.github.io/about/). 
+Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the Qwen team at Alibaba Cloud (Tongyi Group).
 
-I study post-training for LLM foundations.
+My research centers on **LLMs for Code**, with a specific focus on:
+* **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694), ICML 2025; [Target-DPO](https://arxiv.org/abs/2503.02783), EMNLP 2025).
+* **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953)).
+* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198), ICLR 2026) and Terminal agents.
+
+**Vision:** I believe that code-centric agents serve as the fundamental gateway to truly general-purpose AI assistants.
 
 Education
 ======
@@ -27,21 +32,26 @@ Publications
 - [arXiv Preprint] [X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests](https://www.arxiv.org/abs/2601.06953) [[code](https://github.com/JieWu02/X-Coder)]  
   **Jie Wu**, Haoling Li\*, Xin Zhang\*, Jiani Guo, Jane Luo, Steven Liu, Yangyu Huang, Ruihang Chu, Scarlett Li, Yujiu Yang
 
+- [ICLR 2026] [RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation](https://arxiv.org/abs/2509.16198) [[code](https://github.com/microsoft/RPG-ZeroRepo)]  
+  Jane Luo, Xin Zhang, Steven Liu, **Jie Wu**, Jianfeng Liu, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang
+
 - [EMNLP 2025 Main] [Teaching Your Models to Understand Code via Focal Preference Alignment](https://arxiv.org/abs/2503.02783) [[code](https://github.com/JieWu02/Target-DPO)]  
   **Jie Wu**, Haoling Li\*, Xin Zhang\*, Xiao Liu, Yangyu Huang, Jianwen Luo, Yizhen Zhang, Zuchao Li, Ruihang Chu, Yujiu Yang, Scarlett Li
 
-- [EMNLP 2025 Main] [Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2511.00489) [[code](https://github.com/gjn12-31/ToM)]  
+- [EMNLP 2025 Main] [Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models](https://arxiv.org/abs/2511.00489) [[code](https://github.com/gjn12-31/ToM)]
   Jiani Guo\*, **Jie Wu**\*, Zuchao Li, Qianren Wang, Yun Li, Lefei Zhang, Hai Zhao, Yujiu Yang  
+
+- [ICML 2025] [EpiCoder: Encompassing Diversity and Complexity in Code Generation](https://arxiv.org/abs/2501.04694) [[code](https://github.com/microsoft/EpiCoder)]  
+  Yaoxiang Wang, Haoling Li, Xin Zhang, **Jie Wu**, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li
 
 - [Multimedia 2024 MIS (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]  
   **Jie Wu**, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang
  
 
-
 Experience
 ======
-- (Nov. 2024 - Present) Research Intern, Microsoft Asia, Beijing, China.
-<br> Working on post-training for Code LLMs.
+- (Nov. 2024 - Mar. 2026) Research Intern, Microsoft Asia, Beijing.
+- (Mar. 2026 - Present) Research Intern, Qwen, Beijing.
 
 Competitions
 ======
@@ -51,5 +61,4 @@ Competitions
 Honors & Awards
 ======
 - Top 1% Graduate, Wuhan University, 2024
-- Outstanding Graduate Thesis, Wuhan University, 2024
 - National Scholarship, Ministry of Education, China, 2023 
