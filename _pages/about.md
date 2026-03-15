@@ -13,9 +13,9 @@ Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, 
 My research centers on **LLMs for Code**, with a specific focus on:
 * **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694), ICML 2025; [Target-DPO](https://arxiv.org/abs/2503.02783), EMNLP 2025).
 * **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953)).
-* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198), ICLR 2026) and Terminal agents.
+* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) and [RPG-Encoder](https://arxiv.org/abs/2602.02084), ICLR 2026) and Terminal agents.
 
-**Vision:** I believe that code-centric agents serve as the fundamental gateway to truly general-purpose AI assistants.
+**Vision:** I believe that code agents serve as the fundamental gateway to truly general-purpose AI assistants.
 
 Education
 ======
