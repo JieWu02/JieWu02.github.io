@@ -60,7 +60,7 @@ Workshops
 
 Personal
 ======
-I have a Golden Retriever **XiaoQi** (小七, ENFP-T, loving eating everything) and a Ragdoll **XiaoMan** (小满, ISFJ, loving sleeping and reading papers).
+I have a Golden Retriever **Guo XiaoQi** (郭小七, ENFP-T, loving eating everything) and a Ragdoll **Guo XiaoMan** (郭小满, ISFJ, loving sleeping and reading papers).
 
 <table style="width:100%; border:none; border-collapse:collapse; margin-top: 20px;">
   <tr>
