@@ -60,16 +60,16 @@ Workshops
 
 Personal
 ======
-I have a Golden Retriever **Guo XiaoQi** (郭小七, ENFP-T, loving eating everything) and a Ragdoll **Guo XiaoMan** (郭小满, ISFJ, loving sleeping and reading papers).
+I have a Golden Retriever **Xiaoqi Guo** (郭小七, ENFP-T, loving eating everything) and a Ragdoll **Xiaoman Guo** (郭小满, ISFJ, loving sleeping and reading papers).
 
 <table style="width:100%; border:none; border-collapse:collapse; margin-top: 20px;">
   <tr>
     <td style="width:50%; border:none; text-align:center; padding:10px;">
-      <img src="/images/dog.jpg" alt="XiaoQi" style="width:100%; max-width:200px; border-radius:15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="/images/dog.JPG" alt="XiaoQi" style="width:100%; max-width:200px; border-radius:15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
       <br><em style="font-size: 0.9em;">XiaoQi 🐶</em>
     </td>
     <td style="width:50%; border:none; text-align:center; padding:10px;">
-      <img src="/images/cat.jpg" alt="XiaoMan" style="width:100%; max-width:200px; border-radius:15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
+      <img src="/images/cat.JPG" alt="XiaoMan" style="width:100%; max-width:200px; border-radius:15px; box-shadow: 2px 2px 10px rgba(0,0,0,0.1);">
       <br><em style="font-size: 0.9em;">XiaoMan 🐱</em>
     </td>
   </tr>
