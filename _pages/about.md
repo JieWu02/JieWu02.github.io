@@ -11,9 +11,9 @@ redirect_from:
 Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the **Qwen team** at Alibaba Cloud. Previous, I was fortunate to spend a rewarding year and a half at **Microsoft Research Asia**, working closely with and learning from Xin Zhang and Haoling Li.
 
 My research centers on **LLMs for Code**, with a specific focus on:
-* **Instruction Synthesis:** Exploring synthetic data generation and alignment ([EpiCoder](https://arxiv.org/abs/2501.04694)[![Stars](https://img.shields.io/github/stars/microsoft/EpiCoder?style=social)](https://github.com/microsoft/EpiCoder), ICML 2025; [Target-DPO](https://arxiv.org/abs/2503.02783) [![Stars](https://img.shields.io/github/stars/JieWu02/Target-DPO?style=social)](https://github.com/JieWu02/Target-DPO), EMNLP 2025).
+* **Instruction Synthesis:** Exploring synthetic data generation and alignment ([Target-DPO](https://arxiv.org/abs/2503.02783) [![Stars](https://img.shields.io/github/stars/JieWu02/Target-DPO?style=social)](https://github.com/JieWu02/Target-DPO), EMNLP 2025; [EpiCoder](https://arxiv.org/abs/2501.04694)[![Stars](https://img.shields.io/github/stars/microsoft/EpiCoder?style=social)](https://github.com/microsoft/EpiCoder), ICML 2025).
 * **Competitive Programming:** Enhancing LLM reasoning for complex algorithmic challenges ([X-Coder](https://arxiv.org/abs/2601.06953) [![Stars](https://img.shields.io/github/stars/JieWu02/X-Coder?style=social)](https://github.com/JieWu02/X-Coder)).
-* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) [![Stars](https://img.shields.io/github/stars/microsoft/RPG-ZeroRepo?style=social)](https://github.com/microsoft/RPG-ZeroRepo), ICLR 2026) and Terminal agents.
+* **Code Agent:** Developing capable agents for software engineering, including SWE-agents ([RPG](https://arxiv.org/abs/2509.16198) [![Stars](https://img.shields.io/github/stars/microsoft/RPG-ZeroRepo?style=social)](https://github.com/microsoft/RPG-ZeroRepo), ICLR 2026).
 
 **Vision:** I believe that code agents serve as the fundamental gateway to truly general AI assistants.
 
