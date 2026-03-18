@@ -46,26 +46,21 @@ Publications
 
 - [ACMMM 2024 (oral)] [Multi-modal Fake News Detection via Decision Uncertainty](https://dl.acm.org/doi/abs/10.1145/3689090.3689389) [[code](https://github.com/JieWu02/T-FND)]  
   **Jie Wu**\*, Danni Xu\*, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang
- 
 
-Experience
+ 
+Internships
 ======
 - (Nov. 2024 - Mar. 2026) Research Intern, Microsoft Asia, Beijing.
 - (Mar. 2026 - Present) Research Intern, Qwen, Beijing.
 
-Competitions
+Workshops
 ======
 - (Nov. 2024) 1st Place (1/150) in [NeurIPS 2024 LLM Merging Competition](https://www.kaggle.com/competitions/llm-merging-competition/leaderboard).
-- (Nov. 2024) 4th Place (4/53) in [Kingsoft Office Chineses Grammar Correction Competition](https://datastudio.wps.cn/matchcenter/competition/1/leader-board).
 
-Honors & Awards
-======
-- Top 1% Graduate, Wuhan University, 2024
-- National Scholarship, Ministry of Education, China, 2023
 
 Personal
 ======
-I have a Golden Retriever **XiaoQi** (小七, loving eating everything) and a Ragdoll **XiaoMan** (小满, loving reading papers).
+I have a Golden Retriever **XiaoQi** (小七, ENFP-T, loving eating everything) and a Ragdoll **XiaoMan** (小满, ISFJ, loving reading papers).
 
 <table style="width:100%; border:none; border-collapse:collapse; margin-top: 20px;">
   <tr>
