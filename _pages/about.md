@@ -15,21 +15,21 @@ Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, 
   <div class="timeline-list">
     <article class="timeline-item timeline-item--branded">
       <div class="timeline-item__header">
+        <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
         <div class="timeline-item__identity">
-          <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
           <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Environment scaling for terminal and web agent</span></h3>
+          <time class="timeline-item__date">Mar. 2026 – Present</time>
         </div>
-        <time class="timeline-item__date">Mar. 2026 – Present</time>
       </div>
     </article>
 
     <article class="timeline-item timeline-item--branded">
       <div class="timeline-item__header">
+        <img class="timeline-item__logo timeline-item__logo--microsoft" src="/images/brands/microsoft-logo.svg" alt="Microsoft logo">
         <div class="timeline-item__identity">
-          <img class="timeline-item__logo timeline-item__logo--microsoft" src="/images/brands/microsoft-logo.svg" alt="Microsoft logo">
           <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Asia</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Code data synthesis and alignment.</span></h3>
+          <time class="timeline-item__date">Nov. 2024 – Mar. 2026</time>
         </div>
-        <time class="timeline-item__date">Nov. 2024 – Mar. 2026</time>
       </div>
     </article>
   </div>

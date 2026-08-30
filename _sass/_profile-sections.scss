@@ -272,15 +272,22 @@
 }
 
 .timeline-item__identity {
-  display: flex;
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) auto;
   min-width: 0;
+  align-items: baseline;
+  gap: 0.8rem 1.5rem;
+}
+
+.timeline-item--branded .timeline-item__header {
+  grid-template-columns: 2rem minmax(0, 1fr);
   align-items: center;
   gap: 0.65rem;
 }
 
 .timeline-item__logo {
   display: block;
-  flex: 0 0 auto;
+  align-self: center;
   width: 2rem;
   height: 2rem;
   margin: 0;
@@ -446,13 +453,24 @@
     gap: 0.2rem;
   }
 
+  .timeline-item--branded .timeline-item__header {
+    grid-template-columns: 2rem minmax(0, 1fr);
+    align-items: center;
+    gap: 0.65rem;
+  }
+
+  .timeline-item__identity {
+    grid-template-columns: 1fr;
+    gap: 0.2rem;
+  }
+
   .timeline-item__date,
   .award-item__date {
     grid-row: 2;
   }
 
   .timeline-item--branded .timeline-item__date {
-    padding-left: 2.65rem;
+    padding-left: 0;
   }
 
   .personal-gallery {
