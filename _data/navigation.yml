@@ -1,19 +1,16 @@
 # main links links
 main:
+  - title: "Internship"
+    url: /#experience
+
   - title: "Education"
     url: /#education
 
+  - title: "Research Interests"
+    url: /#research-interests
+
   - title: "Publications"
     url: /#publications
-
-  - title: "Experience"
-    url: /#experience
-    
-  - title: "Competitions"
-    url: /#competitions
-
-  - title: "Honors and Awards"
-    url: /#honors-and-awards
 
   # - title: "Blog"
   #   url: /blog
