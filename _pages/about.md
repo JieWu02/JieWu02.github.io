@@ -1,14 +1,27 @@
 ---
 permalink: /
-title: "Jie Wu 武杰"
-excerpt: "Jie Wu 武杰"
-author_profile: true
+title: "Jie Wu"
+excerpt: "Jie Wu"
+author_profile: false
+profile_layout: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, advised by Prof. [Yujiu Yang](https://iigroup.github.io/about/). Currently, I am a research intern with the **Qwen team** at Alibaba Cloud.<span class="profile-intro__focus">I study environment scaling for terminal and web agents.</span>
+<section class="profile-hero" aria-label="About Jie Wu">
+  <div class="profile-hero__copy">
+    <p>Hi! I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. Currently, I am a research intern with the <strong>Qwen team</strong> at Alibaba Cloud.<span class="profile-intro__focus">Currently, I study environment scaling for terminal and web agents.</span></p>
+  </div>
+  <aside class="profile-hero__identity" aria-label="Profile and contact links">
+    <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
+    <nav class="profile-hero__socials" aria-label="Contact Jie Wu">
+      <a class="profile-hero__social-link" href="mailto:wujie24@mails.tsinghua.edu.cn" aria-label="Email" title="Email"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1.25" y="2.75" width="13.5" height="10.5" rx="1.75"/><path d="m2.25 4.25 5.75 4 5.75-4"/></svg></a>
+      <a class="profile-hero__social-link" href="https://scholar.google.com/citations?user=mveolGMAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m1 5.7 7-3.8 7 3.8-7 3.8-7-3.8Z"/><path d="M4 8v3.1c2.4 1.7 5.6 1.7 8 0V8M15 5.8v5"/></svg></a>
+      <a class="profile-hero__social-link" href="https://github.com/JieWu02" aria-label="GitHub" title="GitHub"><svg viewBox="0 0 16 16" aria-hidden="true"><path d="M8 .2a8 8 0 0 0-2.53 15.59c.4.07.55-.17.55-.39l-.01-1.53c-2.23.49-2.7-1.08-2.7-1.08-.36-.93-.89-1.17-.89-1.17-.73-.5.06-.49.06-.49.8.06 1.23.83 1.23.83.72 1.23 1.88.87 2.34.67.07-.52.28-.87.51-1.07-1.78-.2-3.65-.89-3.65-3.96 0-.87.31-1.59.83-2.15-.08-.2-.36-1.02.08-2.12 0 0 .67-.22 2.2.82A7.7 7.7 0 0 1 8 3.89c.68 0 1.35.09 1.98.27 1.53-1.04 2.2-.82 2.2-.82.44 1.1.16 1.92.08 2.12.52.56.83 1.28.83 2.15 0 3.08-1.88 3.75-3.66 3.95.29.25.54.74.54 1.5l-.01 2.33c0 .22.15.47.55.39A8 8 0 0 0 8 .2Z"/></svg></a>
+    </nav>
+  </aside>
+</section>
 
 <section class="profile-section profile-internships" id="experience" aria-labelledby="internship-heading">
   <h2 class="profile-section__title" id="internship-heading">Internship</h2>
@@ -89,7 +102,7 @@ Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, 
 
   <article class="research-interest-item">
     <h3 class="research-interest-item__title">Environment Scaling for Agents</h3>
-    <p class="research-interest-item__description">Scaling terminal and web environments, along with agentic task synthesis that reuses these environments.</p>
+    <p class="research-interest-item__description">Scale terminal and web environments, along with agentic task synthesis.</p>
   </article>
 </section>
 
@@ -97,7 +110,7 @@ Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, 
   <h2 class="profile-section__title" id="publications-heading">Publications</h2>
 
   <div class="publication-group">
-    <h3 class="publication-group__title"><span>Selected first-author work</span><span class="publication-group__count">4 papers</span></h3>
+    <h3 class="publication-group__title">Selected first-author work</h3>
 
     <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://www.arxiv.org/abs/2601.06953" aria-label="View the X-Coder paper"><img src="/images/publications/x-coder-framework.png" alt="X-Coder data synthesis framework" loading="lazy" decoding="async"></a>
@@ -149,7 +162,7 @@ Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, 
   </div>
 
   <div class="publication-group">
-    <h3 class="publication-group__title"><span>Collaborative work</span><span class="publication-group__count">5 papers</span></h3>
+    <h3 class="publication-group__title">Collaborative work</h3>
 
     <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2509.16198" aria-label="View the RPG paper"><img src="/images/publications/rpg-framework.png" alt="Repository Planning Graph pipeline" loading="lazy" decoding="async"></a>
@@ -210,20 +223,5 @@ Hi! I am Jie Wu, an M.S. student at **Tsinghua University** in the **IIGroup**, 
         <p class="publication-item__authors">Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, <strong>Jie Wu</strong>, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang</p>
       </div>
     </article>
-  </div>
-</section>
-
-<section class="profile-section profile-personal" id="personal" aria-labelledby="personal-heading">
-  <h2 class="profile-section__title" id="personal-heading">Personal</h2>
-  <p class="profile-personal__intro">I have a Golden Retriever <strong>Xiaoqi Guo</strong> (郭小七, ENFP-T, loving eating everything) and a Ragdoll <strong>Xiaoman Guo</strong> (郭小满, ISFJ, loving sleeping and reading papers).</p>
-  <div class="personal-gallery">
-    <figure class="personal-gallery__item">
-      <img src="/images/dog.JPG" alt="Xiaoqi, a Golden Retriever">
-      <figcaption>XiaoQi 🐶</figcaption>
-    </figure>
-    <figure class="personal-gallery__item">
-      <img src="/images/cat.JPG" alt="Xiaoman, a Ragdoll cat">
-      <figcaption>XiaoMan 🐱</figcaption>
-    </figure>
   </div>
 </section>

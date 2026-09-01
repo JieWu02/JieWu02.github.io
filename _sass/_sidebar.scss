@@ -158,6 +158,19 @@
   }
 }
 
+.profile-link-icon {
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  margin-right: 0.2em;
+  fill: currentColor;
+  vertical-align: -0.13em;
+}
+
+.profile-link-icon[fill="none"] {
+  fill: none;
+}
+
 .author__urls {
   display: none;
   position: absolute;
@@ -175,7 +188,9 @@
   @include breakpoint($large) {
     display: block;
     position: relative;
-    margin: 0;
+    width: max-content;
+    max-width: 100%;
+    margin: 1.1rem auto 0;
     padding: 0;
     border: 0;
     background: transparent;
