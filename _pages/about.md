@@ -11,7 +11,7 @@ redirect_from:
 
 <section class="profile-hero" aria-label="About Jie Wu">
   <div class="profile-hero__copy">
-    <p>Hi! I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. Currently, I am a research intern with the <strong>Qwen team</strong> at Alibaba Cloud.<span class="profile-intro__focus">Currently, I study environment scaling for terminal agents and full-stack web agents.</span></p>
+    <p>Hi! I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. Currently, I am a research intern with the <strong>Qwen team</strong> at Alibaba Cloud,<span class="profile-intro__focus">studying environment scaling for terminal agents and full-stack web agents.</span></p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
     <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
