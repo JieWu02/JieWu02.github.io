@@ -11,7 +11,7 @@ redirect_from:
 
 <section class="profile-hero" aria-label="About Jie Wu">
   <div class="profile-hero__copy">
-    <p>Hi! I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.<span class="profile-intro__focus">Currently, I am a research intern with the <strong>Qwen team</strong> at Alibaba Cloud, studying environment scaling for terminal agents and web agents.</span></p>
+    <p>Hi! I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.<span class="profile-intro__focus">Currently, I am an intern with the <strong>Qwen team</strong>, studying environment scaling for terminal and browser-use agent.</span></p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
     <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
@@ -30,7 +30,7 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Environment scaling for terminal and web agent.</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Environment scaling for terminal and browser-use agent.</span></h3>
           <time class="timeline-item__date">Mar. 2026 – Present</time>
         </div>
       </div>
@@ -119,7 +119,7 @@ redirect_from:
     <h3 class="publication-group__title">Selected first-author work</h3>
 
     <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-framework.png" alt="Terminal-Universe framework" loading="lazy" decoding="async"></a>
+      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-framework.png" alt="Terminal-Universe framework" style="box-sizing: border-box; padding: 0.2rem;" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
         <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2609.04148">Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments</a></h4>
         <div class="publication-item__meta">
@@ -143,7 +143,7 @@ redirect_from:
     </article>
 
     <article class="publication-item">
-      <a class="publication-item__thumbnail publication-item__thumbnail--inset" href="https://arxiv.org/abs/2503.02783" aria-label="View the Target-DPO paper"><img src="/images/publications/target-dpo-framework.png" alt="Target-DPO method overview" loading="lazy" decoding="async"></a>
+      <a class="publication-item__thumbnail publication-item__thumbnail--inset" href="https://arxiv.org/abs/2503.02783" aria-label="View the Target-DPO paper" style="padding: 0.4rem;"><img src="/images/publications/target-dpo-framework.png" alt="Target-DPO method overview" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
         <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2503.02783">Teaching Your Models to Understand Code via Focal Preference Alignment</a></h4>
         <div class="publication-item__meta">
@@ -155,7 +155,7 @@ redirect_from:
     </article>
 
     <article class="publication-item">
-      <a class="publication-item__thumbnail publication-item__thumbnail--inset" href="https://arxiv.org/abs/2511.00489" aria-label="View the ToM paper"><img src="/images/publications/tom-framework.png" alt="Tree-oriented MapReduce framework" loading="lazy" decoding="async"></a>
+      <a class="publication-item__thumbnail publication-item__thumbnail--inset" href="https://arxiv.org/abs/2511.00489" aria-label="View the ToM paper" style="padding: 0.4rem;"><img src="/images/publications/tom-framework.png" alt="Tree-oriented MapReduce framework" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
         <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2511.00489">Leveraging Tree-oriented MapReduce for Long-Context Reasoning in Large Language Models</a></h4>
         <div class="publication-item__meta">
