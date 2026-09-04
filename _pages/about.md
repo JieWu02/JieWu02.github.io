@@ -103,6 +103,12 @@ redirect_from:
   <article class="research-interest-item">
     <h3 class="research-interest-item__title">Environment Scaling for Agents</h3>
     <p class="research-interest-item__description">Scale terminal and web environments, along with agentic task synthesis.</p>
+    <div class="research-interest-item__works">
+      <span class="research-work">
+        <a class="research-work__name" href="https://arxiv.org/abs/2609.04148">Terminal-Universe</a>
+        <span class="publication-venue">Tech Report</span>
+      </span>
+    </div>
   </article>
 </section>
 
@@ -111,6 +117,18 @@ redirect_from:
 
   <div class="publication-group">
     <h3 class="publication-group__title">Selected first-author work</h3>
+
+    <article class="publication-item">
+      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-framework.png" alt="Terminal-Universe framework" loading="lazy" decoding="async"></a>
+      <div class="publication-item__body">
+        <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2609.04148">Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments</a></h4>
+        <div class="publication-item__meta">
+          <span class="publication-venue">Tech Report</span>
+          <span class="publication-links"><a href="https://arxiv.org/abs/2609.04148">Paper</a></span>
+        </div>
+        <p class="publication-item__authors"><strong>Jie Wu</strong>, Zhenru Zhang, Beichen Zhang, Xuwu Wang, Yuhui Su, Mouxiang Chen, Peng Wang, Zhihai Wang, Que Shen, Hao Zhou, An Yang, Fei Huang, Yujiu Yang, Dayiheng Liu</p>
+      </div>
+    </article>
 
     <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://www.arxiv.org/abs/2601.06953" aria-label="View the X-Coder paper"><img src="/images/publications/x-coder-framework.png" alt="X-Coder data synthesis framework" loading="lazy" decoding="async"></a>
