@@ -305,6 +305,7 @@
 }
 
 .page__content .publication-item__authors {
+  max-width: var(--publication-title-width, 100%);
   margin: 0.5rem 0 0;
   color: #606872;
   font-size: 0.78rem;
