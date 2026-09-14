@@ -14,7 +14,7 @@ redirect_from:
     <p> I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.<span class="profile-intro__focus">I work on the <strong>Qwen team</strong>, focusing on environment scaling, task synthesis, and scaffold adaptations for terminal agents (see <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>).<br>Besides, I also support web-based environment scaling for browser-use agents.</span></p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
-    <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
+    <img class="profile-hero__avatar" src="/images/profile_2026.jpg" alt="Jie Wu">
     <nav class="profile-hero__socials" aria-label="Contact Jie Wu">
       <a class="profile-hero__social-link" href="mailto:wujie24@mails.tsinghua.edu.cn" aria-label="Email" title="Email"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1.25" y="2.75" width="13.5" height="10.5" rx="1.75"/><path d="m2.25 4.25 5.75 4 5.75-4"/></svg></a>
       <a class="profile-hero__social-link" href="https://scholar.google.com/citations?user=mveolGMAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m1 5.7 7-3.8 7 3.8-7 3.8-7-3.8Z"/><path d="M4 8v3.1c2.4 1.7 5.6 1.7 8 0V8M15 5.8v5"/></svg></a>
