@@ -11,7 +11,9 @@ redirect_from:
 
 <section class="profile-hero" aria-label="About Jie Wu">
   <div class="profile-hero__copy">
-    <p> I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.<span class="profile-intro__focus">I work on the <strong>Qwen team</strong>, focusing on environment scaling, task synthesis, and scaffold adaptations for terminal agents (see <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>).<br>Besides, I also support web-based environment scaling for browser-use agents.</span></p>
+    <h1 class="profile-hero__name">Jie Wu</h1>
+    <p> I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.</p>
+    <p class="profile-hero__tagline">Aiming high, I love challenging and impactful work.</p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
     <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
@@ -23,16 +25,21 @@ redirect_from:
   </aside>
 </section>
 
-<section class="profile-section profile-internships" id="experience" aria-labelledby="internship-heading">
-  <h2 class="profile-section__title" id="internship-heading">Internship</h2>
+<section class="profile-section profile-internships" id="experience" aria-labelledby="experience-heading">
+  <h2 class="profile-section__title" id="experience-heading">Experience</h2>
   <div class="timeline-list">
     <article class="timeline-item timeline-item--branded">
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Environment scaling for terminal, webdev, and browser-use agents.</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span></h3>
           <time class="timeline-item__date">Mar. 2026 – Present</time>
         </div>
+      </div>
+      <div class="timeline-item__detail">
+        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>. Terminal Universe turns agent trajectories into scalable terminal environments. It re-queries these environments to expand task breadth across workspaces and depth through multi-round interactions. It greatly improves the CLI capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model).</p>
+        <p><strong>Environment Scaling for Browser-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline that provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning.</p>
+        <p><strong>Scaling Scaffold Adaptations for Code Agents.</strong><br>I improve generalization and instruction following for code agents under OOD scaffolds.</p>
       </div>
     </article>
 
@@ -40,7 +47,7 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--microsoft" src="/images/brands/microsoft-logo.svg" alt="Microsoft logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Asia</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Code data synthesis and alignment.</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Asia</span></h3>
           <time class="timeline-item__date">Nov. 2024 – Mar. 2026</time>
         </div>
       </div>
@@ -69,55 +76,50 @@ redirect_from:
   </div>
 </section>
 
-<section class="profile-section profile-interests" id="research-interests" aria-labelledby="research-interests-heading">
-  <h2 class="profile-section__title" id="research-interests-heading">Research Interests</h2>
-  <p class="profile-section__lead">My research centers on <strong>LLMs for Code and Agents</strong>, with a specific focus on:</p>
+<section class="profile-section profile-interests" id="research-interests" aria-labelledby="roadmap-heading">
+  <h2 class="profile-section__title" id="roadmap-heading">Roadmap</h2>
+  <div class="research-map" role="group" aria-label="Research areas and representative work">
+    <div class="research-map__root">LLMs for Code and Agents</div>
+    <div class="research-map__connector" aria-hidden="true"></div>
+    <div class="research-map__branches">
+      <article class="research-map__branch">
+        <h3 class="research-interest-item__title">Instruction Synthesis and Alignment</h3>
+        <div class="research-interest-item__works">
+          <span class="research-work">
+            <a class="research-work__name" href="https://arxiv.org/abs/2503.02783">Target-DPO</a>
+            <span class="publication-venue">EMNLP 2025</span>
+          </span>
+        </div>
+      </article>
 
-  <article class="research-interest-item">
-    <h3 class="research-interest-item__title">Instruction Synthesis and Alignment</h3>
-    <p class="research-interest-item__description">Exploring synthetic data generation and alignment.</p>
-    <div class="research-interest-item__works">
-      <span class="research-work">
-        <a class="research-work__name" href="https://arxiv.org/abs/2503.02783">Target-DPO</a>
-        <span class="publication-venue">EMNLP 2025</span>
-      </span>
-      <span class="research-work">
-        <a class="research-work__name" href="https://arxiv.org/abs/2501.04694">EpiCoder</a>
-        <span class="publication-venue">ICML 2025</span>
-      </span>
-    </div>
-  </article>
+      <article class="research-map__branch">
+        <h3 class="research-interest-item__title">Competitive Programming</h3>
+        <div class="research-interest-item__works">
+          <span class="research-work">
+            <a class="research-work__name" href="https://arxiv.org/abs/2601.06953">X-Coder</a>
+            <span class="publication-venue">EMNLP 2026</span>
+            <span class="research-work__metric">Over 16K downloads</span>
+          </span>
+        </div>
+      </article>
 
-  <article class="research-interest-item">
-    <h3 class="research-interest-item__title">Reasoning for Competitive Programming</h3>
-    <p class="research-interest-item__description">Enhancing LLM reasoning for complex algorithmic challenges.</p>
-    <div class="research-interest-item__works">
-      <span class="research-work">
-        <a class="research-work__name" href="https://arxiv.org/abs/2601.06953">X-Coder</a>
-        <span class="research-work__metric">Over 14K downloads</span>
-        <span class="publication-venue">EMNLP 2026</span>
-      </span>
+      <article class="research-map__branch">
+        <h3 class="research-interest-item__title">Environment Scaling for Agents</h3>
+        <div class="research-interest-item__works">
+          <span class="research-work">
+            <a class="research-work__name" href="https://arxiv.org/abs/2609.04148">Terminal-Universe</a>
+            <span class="publication-venue">Qwen Tech Report</span>
+          </span>
+        </div>
+      </article>
     </div>
-  </article>
-
-  <article class="research-interest-item">
-    <h3 class="research-interest-item__title">Environment Scaling for Agents</h3>
-    <p class="research-interest-item__description">Scaling environments and synthesizing tasks for terminal, webdev, and browser-use agents.</p>
-    <div class="research-interest-item__works">
-      <span class="research-work">
-        <a class="research-work__name" href="https://arxiv.org/abs/2609.04148">Terminal-Universe</a>
-        <span class="publication-venue">Qwen Tech Report</span>
-      </span>
-    </div>
-  </article>
+  </div>
 </section>
 
 <section class="profile-section profile-publications" id="publications" aria-labelledby="publications-heading">
   <h2 class="profile-section__title" id="publications-heading">Publications</h2>
 
   <div class="publication-group">
-    <h3 class="publication-group__title">Selected first-author work</h3>
-
     <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-first-page.png" alt="Terminal-Universe paper first page, from the title through the abstract" style="box-sizing: border-box; padding: 0.2rem;" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
@@ -179,67 +181,5 @@ redirect_from:
     </article>
   </div>
 
-  <div class="publication-group">
-    <h3 class="publication-group__title">Collaborative work</h3>
-
-    <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2509.16198" aria-label="View the RPG paper"><img src="/images/publications/rpg-framework.png" alt="Repository Planning Graph pipeline" loading="lazy" decoding="async"></a>
-      <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2509.16198">RPG: A Repository Planning Graph for Unified and Scalable Codebase Generation</a></h4>
-        <div class="publication-item__meta">
-          <span class="publication-venue">ICLR 2026</span>
-          <span class="publication-links"><a href="https://arxiv.org/abs/2509.16198">Paper</a><a href="https://github.com/microsoft/RPG-ZeroRepo">Code</a></span>
-        </div>
-        <p class="publication-item__authors">Jane Luo*, Xin Zhang*, Steven Liu, <strong>Jie Wu</strong>, Jianfeng Liu, Yiming Huang, Yangyu Huang, Chengyu Yin, Ying Xin, Yuefeng Zhan, Hao Sun, Qi Chen, Scarlett Li, Mao Yang</p>
-      </div>
-    </article>
-
-    <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2602.02084" aria-label="View the RPG-Encoder paper"><img src="/images/publications/rpg-encoder-framework.png" alt="RPG-Encoder framework" loading="lazy" decoding="async"></a>
-      <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2602.02084">Closing the Loop: Universal Repository Representation with RPG-Encoder</a></h4>
-        <div class="publication-item__meta">
-          <span class="publication-venue">ICML 2026</span>
-          <span class="publication-links"><a href="https://arxiv.org/abs/2602.02084">Paper</a><a href="https://github.com/microsoft/RPG-ZeroRepo">Code</a></span>
-        </div>
-        <p class="publication-item__authors">Jane Luo*, Chengyu Yin*, Xin Zhang*, Qingtao Li, Steven Liu, Yiming Huang, <strong>Jie Wu</strong>, Hao Liu, Yangyu Huang, Yu Kang, Fangkai Yang, Ying Xin, Scarlett Li</p>
-      </div>
-    </article>
-
-    <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2602.10471" aria-label="View the TestExplora paper"><img src="/images/publications/testexplora-framework.png" alt="TestExplora data acquisition process" loading="lazy" decoding="async"></a>
-      <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2602.10471">TestExplora: Benchmarking LLMs for Proactive Bug Discovery via Repository-Level Test Generation</a></h4>
-        <div class="publication-item__meta">
-          <span class="publication-venue">ICML 2026</span>
-          <span class="publication-links"><a href="https://arxiv.org/abs/2602.10471">Paper</a><a href="https://github.com/microsoft/TestExplora">Code</a></span>
-        </div>
-        <p class="publication-item__authors">Steven Liu, Jane Luo, Xin Zhang, Aofan Liu, Hao Liu, <strong>Jie Wu</strong>, Ziyang Huang, Yangyu Huang, Yu Kang, Scarlett Li</p>
-      </div>
-    </article>
-
-    <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2501.04694" aria-label="View the EpiCoder paper"><img src="/images/publications/epicoder-framework.png" alt="EpiCoder feature tree framework" loading="lazy" decoding="async"></a>
-      <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2501.04694">EpiCoder: Encompassing Diversity and Complexity in Code Generation</a></h4>
-        <div class="publication-item__meta">
-          <span class="publication-venue">ICML 2025</span>
-          <span class="publication-links"><a href="https://arxiv.org/abs/2501.04694">Paper</a><a href="https://github.com/microsoft/EpiCoder">Code</a></span>
-        </div>
-        <p class="publication-item__authors">Yaoxiang Wang*, Haoling Li*, Xin Zhang*, <strong>Jie Wu</strong>, Xiao Liu, Wenxiang Hu, Zhongxin Guo, Yangyu Huang, Ying Xin, Yujiu Yang, Jinsong Su, Qi Chen, Scarlett Li</p>
-      </div>
-    </article>
-
-    <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://aclanthology.org/2026.findings-acl.1569/" aria-label="View the A.S.E paper"><img src="/images/publications/ase-framework.png" alt="A.S.E evaluation workflow" loading="lazy" decoding="async"></a>
-      <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://aclanthology.org/2026.findings-acl.1569/">A.S.E: A Repository-Level Benchmark for Evaluating Security in AI-Generated Code</a></h4>
-        <div class="publication-item__meta">
-          <span class="publication-venue">ACL 2026 Findings</span>
-          <span class="publication-links"><a href="https://aclanthology.org/2026.findings-acl.1569/">Paper</a><a href="https://github.com/Tencent/AICGSecEval">Code</a></span>
-        </div>
-        <p class="publication-item__authors">Keke Lian, Bin Wang, Lei Zhang, Libo Chen, Junjie Wang, Ziming Zhao, Yujiu Yang, Miaoqian Lin, Haotong Duan, Haoran Zhao, Shuang Liao, Mingda Guo, Jiazheng Quan, Yilu Zhong, Chenhao He, Zichuan Chen, <strong>Jie Wu</strong>, Haoling Li, Zhaoxuan Li, Jiongchi Yu, Hui Li, Dong Zhang</p>
-      </div>
-    </article>
-  </div>
+  <p class="publication-collaboration-note">I contributed to several projects around coding, including <a href="https://arxiv.org/abs/2509.16198">RPG</a> (ICLR 2026), <a href="https://arxiv.org/abs/2602.02084">RPG-Encoder</a> (ICML 2026), <a href="https://arxiv.org/abs/2602.10471">TestExplora</a> (ICML 2026), <a href="https://arxiv.org/abs/2501.04694">EpiCoder</a> (ICML 2025), and <a href="https://aclanthology.org/2026.findings-acl.1569/">A.S.E.</a> (ACL 2026 Findings).</p>
 </section>
