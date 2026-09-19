@@ -177,7 +177,7 @@ redirect_from:
           <span class="publication-venue">ACM MM 2024 Oral</span>
           <span class="publication-links"><a href="https://dl.acm.org/doi/abs/10.1145/3689090.3689389">Paper</a><a href="https://github.com/JieWu02/T-FND">Code</a></span>
         </div>
-        <p class="publication-item__authors"><strong>Jie Wu</strong>, Danni Xu, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang</p>
+        <p class="publication-item__authors publication-item__authors--full-width"><strong>Jie Wu</strong>, Danni Xu, Wenxuan Liu, Joey Zhou, Yew Ong, Siyuan Hu, Hongyuan Zhu, Zheng Wang</p>
       </div>
     </article>
   </div>

@@ -424,6 +424,10 @@
   line-height: 1.55;
 }
 
+.page__content .publication-item__authors--full-width {
+  max-width: 100%;
+}
+
 .publication-item__authors strong {
   color: #39434d;
   font-weight: 600;
