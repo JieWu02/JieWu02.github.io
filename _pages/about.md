@@ -25,6 +25,11 @@ redirect_from:
   </aside>
 </section>
 
+<aside class="profile-opportunities" aria-label="Full-time opportunities and contact">
+  <p>I am looking for a full-time position in <strong>Coding Agents</strong>, focusing on <strong>user trajectory flywheels</strong>, agent mid-training and post-training.</p>
+  <p>Feel free to contact me via email (<a href="mailto:wujie24@mails.tsinghua.edu.cn">wujie24@mails.tsinghua.edu.cn</a>) or <a href="/images/wechat-qr.jpg" target="_blank" rel="noopener" aria-label="WeChat: open Jie Wu's QR code in a new tab">WeChat</a> if you are recruiting!</p>
+</aside>
+
 <section class="profile-section profile-internships" id="experience" aria-labelledby="experience-heading">
   <h2 class="profile-section__title" id="experience-heading">Experience</h2>
   <div class="timeline-list">
@@ -37,10 +42,9 @@ redirect_from:
         </div>
       </div>
       <div class="timeline-item__detail">
-        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>. Terminal Universe turns agent trajectories into scalable terminal environments. It re-queries these environments to expand task breadth across workspaces and depth through multi-round interactions. It greatly improves the CLI capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model).</p>
-        <p><strong>Environment Scaling for Browser-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline that provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning.</p>
+        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>. <strong class="timeline-item__highlight">It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</strong></p>
         <p><strong>Scaling Scaffold Adaptations for Code Agents.</strong><br>I improve generalization and instruction following for code agents under OOD scaffolds.</p>
-        <p><strong>Scalable Environments for Hybrid Computer-Use Agents.</strong><br>Coming Soon.</p>
+        <p><strong>Scalable Environments for Hybrid Computer-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline. It provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning.</p>
       </div>
     </article>
 

@@ -58,6 +58,33 @@
   align-items: center;
 }
 
+.profile-opportunities {
+  padding: 0.85rem 1rem;
+  border-left: 3px solid #2383e2;
+  border-radius: 4px;
+  background: #f3f7fc;
+  color: #303b48;
+}
+
+.page__content .profile-opportunities p {
+  margin: 0;
+  font-size: 0.9rem;
+  line-height: 1.6;
+}
+
+.page__content .profile-opportunities p + p {
+  margin-top: 0.4rem;
+}
+
+.profile-opportunities a {
+  color: #1662a8;
+  overflow-wrap: anywhere;
+}
+
+.profile-opportunities + .profile-section {
+  margin-top: 1.5rem;
+}
+
 .page__content .profile-hero__avatar {
   display: block;
   width: 7.5rem;
@@ -544,6 +571,15 @@
 
 .page__content .timeline-item__detail strong {
   color: var(--profile-title-blue);
+}
+
+.page__content .timeline-item__detail .timeline-item__highlight {
+  color: inherit;
+}
+
+.timeline-item__description {
+  display: block;
+  margin-top: 0.45rem;
 }
 
 .award-item {
