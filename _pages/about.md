@@ -125,18 +125,6 @@ redirect_from:
 
   <div class="publication-group">
     <article class="publication-item">
-      <a class="publication-item__thumbnail" href="https://huggingface.co/papers/2609.22000" aria-label="View the RecreationWorld paper"><img src="/images/publications/recreation-world-first-page.png" alt="RecreationWorld paper first page" loading="lazy" decoding="async"></a>
-      <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://huggingface.co/papers/2609.22000">RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents</a></h4>
-        <div class="publication-item__meta">
-          <span class="publication-venue">Preprint</span>
-          <span class="publication-links"><a href="https://huggingface.co/papers/2609.22000">Paper</a></span>
-        </div>
-        <p class="publication-item__authors">Shuai Bai, Jiayong Deng, Yikun Fu, Chang Gao, Xuhao Hu, Mianqiu Huang, Yizhen Jiang, Yuheng Jing, Dehui Kong, Keliang Li, Ning Li, Wanli Li, Dayiheng Liu, Dunjie Lu, Changwei Luo, Que Shen, Zheyuan Wang, Zijian Wang, <strong>Jie Wu</strong>, Gao Wu, Zhihui Xie, Rui Xie, et al.</p>
-      </div>
-    </article>
-
-    <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-first-page.png" alt="Terminal-Universe paper first page, from the title through the abstract" style="box-sizing: border-box; padding: 0.2rem;" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
         <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2609.04148">Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments</a></h4>
@@ -145,6 +133,18 @@ redirect_from:
           <span class="publication-links"><a href="https://arxiv.org/abs/2609.04148">Paper</a></span>
         </div>
         <p class="publication-item__authors"><strong>Jie Wu</strong>, Zhenru Zhang, Beichen Zhang, Xuwu Wang, Yuhui Su, Mouxiang Chen, Peng Wang, Zhihai Wang, Que Shen, Hao Zhou, An Yang, Fei Huang, Yujiu Yang, Dayiheng Liu</p>
+      </div>
+    </article>
+
+    <article class="publication-item">
+      <a class="publication-item__thumbnail" href="https://huggingface.co/papers/2609.22000" aria-label="View the RecreationWorld paper"><img src="/images/publications/recreation-world-first-page.png" alt="RecreationWorld paper first page" loading="lazy" decoding="async"></a>
+      <div class="publication-item__body">
+        <h4 class="publication-item__title"><a href="https://huggingface.co/papers/2609.22000">RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents</a></h4>
+        <div class="publication-item__meta">
+          <span class="publication-venue">Preprint</span>
+          <span class="publication-links"><a href="https://huggingface.co/papers/2609.22000">Paper</a></span>
+        </div>
+        <p class="publication-item__authors">Shuai Bai, Jiayong Deng, Yikun Fu, Chang Gao, Xuhao Hu, Mianqiu Huang, Yizhen Jiang, Yuheng Jing, Dehui Kong, Keliang Li, Ning Li, Wanli Li, Dayiheng Liu, Dunjie Lu, Changwei Luo, Que Shen, Zheyuan Wang, Zijian Wang, <strong>Jie Wu</strong>, Gao Wu, Zhihui Xie, Rui Xie, et al.</p>
       </div>
     </article>
 
