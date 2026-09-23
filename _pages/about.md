@@ -13,7 +13,7 @@ redirect_from:
   <div class="profile-hero__copy">
     <h1 class="profile-hero__name">Jie Wu</h1>
     <p> I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.</p>
-    <p class="profile-hero__tagline">Aiming high, I love challenging and impactful project.</p>
+    <p class="profile-hero__tagline">I love challenging, heavy and impactful projects.</p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
     <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
