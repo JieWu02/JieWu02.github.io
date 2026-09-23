@@ -141,7 +141,7 @@ redirect_from:
       <div class="publication-item__body">
         <h4 class="publication-item__title"><a href="https://huggingface.co/papers/2609.22000">RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents</a></h4>
         <div class="publication-item__meta">
-          <span class="publication-venue">Preprint</span>
+          <span class="publication-venue">Qwen Tech Report</span>
           <span class="publication-links"><a href="https://huggingface.co/papers/2609.22000">Paper</a></span>
         </div>
         <p class="publication-item__authors">Shuai Bai, Jiayong Deng, Yikun Fu, Chang Gao, Xuhao Hu, Mianqiu Huang, Yizhen Jiang, Yuheng Jing, Dehui Kong, Keliang Li, Ning Li, Wanli Li, Dayiheng Liu, Dunjie Lu, Changwei Luo, Que Shen, Zheyuan Wang, Zijian Wang, <strong>Jie Wu</strong>, Gao Wu, Zhihui Xie, Rui Xie, et al.</p>
