@@ -26,7 +26,7 @@ redirect_from:
 </section>
 
 <aside class="profile-opportunities" aria-label="Full-time opportunities and contact">
-  <p>I am looking for a full-time position in <strong>Coding Agents</strong>, focusing on <strong>user trajectory flywheels</strong>, agent mid-training and post-training.</p>
+  <p>I am looking for a full-time position in <strong>Coding Agents</strong>, focusing on <strong>user trajectory flywheels</strong>, agent mid-training.</p>
   <p>Feel free to contact me via email (<a href="mailto:wujie24@mails.tsinghua.edu.cn">wujie24@mails.tsinghua.edu.cn</a>) or <a href="/images/wechat-qr.jpg" target="_blank" rel="noopener" aria-label="WeChat: open Jie Wu's QR code in a new tab">WeChat</a> if you are recruiting!</p>
 </aside>
 
@@ -43,8 +43,7 @@ redirect_from:
       </div>
       <div class="timeline-item__detail">
         <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>. <strong class="timeline-item__highlight">It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</strong></p>
-        <p><strong>Scaling Scaffold Adaptations for Code Agents.</strong><br>I improve generalization and instruction following for code agents under OOD scaffolds.</p>
-        <p><strong>Scalable Environments for Hybrid Computer-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline. It provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning.</p>
+        <p><strong>Scalable Environments for Hybrid Computer-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline. It provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning. See <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a> for details.</p>
       </div>
     </article>
 
@@ -125,6 +124,18 @@ redirect_from:
   <h2 class="profile-section__title" id="publications-heading">Publications</h2>
 
   <div class="publication-group">
+    <article class="publication-item">
+      <a class="publication-item__thumbnail" href="https://huggingface.co/papers/2609.22000" aria-label="View the RecreationWorld paper"><img src="/images/publications/recreation-world-first-page.png" alt="RecreationWorld paper first page" loading="lazy" decoding="async"></a>
+      <div class="publication-item__body">
+        <h4 class="publication-item__title"><a href="https://huggingface.co/papers/2609.22000">RecreationWorld: Scalable and Verifiable Environments for Hybrid Computer-Use Agents</a></h4>
+        <div class="publication-item__meta">
+          <span class="publication-venue">Preprint</span>
+          <span class="publication-links"><a href="https://huggingface.co/papers/2609.22000">Paper</a></span>
+        </div>
+        <p class="publication-item__authors">Shuai Bai, Jiayong Deng, Yikun Fu, Chang Gao, Xuhao Hu, Mianqiu Huang, Yizhen Jiang, Yuheng Jing, Dehui Kong, Keliang Li, Ning Li, Wanli Li, Dayiheng Liu, Dunjie Lu, Changwei Luo, Que Shen, Zheyuan Wang, Zijian Wang, <strong>Jie Wu</strong>, Gao Wu, Zhihui Xie, Rui Xie, et al.</p>
+      </div>
+    </article>
+
     <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-first-page.png" alt="Terminal-Universe paper first page, from the title through the abstract" style="box-sizing: border-box; padding: 0.2rem;" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
