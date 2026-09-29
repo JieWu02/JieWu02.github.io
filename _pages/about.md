@@ -42,7 +42,7 @@ redirect_from:
         </div>
       </div>
       <div class="timeline-item__detail">
-        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://huggingface.co/papers/2609.04148">Terminal Universe</a>. <strong class="timeline-item__highlight">It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</strong></p>
+        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="/terminal-universe/">Terminal Universe</a>. <strong class="timeline-item__highlight">It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</strong></p>
         <p><strong>Scalable Environments for Hybrid Computer-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline. It provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning. See <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a> for details.</p>
       </div>
     </article>
@@ -111,7 +111,7 @@ redirect_from:
         <h3 class="research-interest-item__title">Environment Scaling for Agents</h3>
         <div class="research-interest-item__works">
           <span class="research-work">
-            <a class="research-work__name" href="https://arxiv.org/abs/2609.04148">Terminal-Universe</a>
+            <a class="research-work__name" href="/terminal-universe/">Terminal-Universe</a>
             <span class="publication-venue">Qwen Tech Report</span>
           </span>
         </div>
@@ -127,10 +127,10 @@ redirect_from:
     <article class="publication-item">
       <a class="publication-item__thumbnail" href="https://arxiv.org/abs/2609.04148" aria-label="View the Terminal-Universe paper"><img src="/images/publications/terminal-universe-first-page.png" alt="Terminal-Universe paper first page, from the title through the abstract" style="box-sizing: border-box; padding: 0.2rem;" loading="lazy" decoding="async"></a>
       <div class="publication-item__body">
-        <h4 class="publication-item__title"><a href="https://arxiv.org/abs/2609.04148">Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments</a></h4>
+        <h4 class="publication-item__title"><a href="/terminal-universe/">Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments</a></h4>
         <div class="publication-item__meta">
           <span class="publication-venue">Qwen Tech Report</span>
-          <span class="publication-links"><a href="https://arxiv.org/abs/2609.04148">Paper</a></span>
+          <span class="publication-links"><a href="https://arxiv.org/abs/2609.04148">Paper</a><a href="/terminal-universe/">Project</a><a href="/terminal-universe/#overview">Video</a></span>
         </div>
         <p class="publication-item__authors"><strong>Jie Wu</strong>, Zhenru Zhang, Beichen Zhang, Xuwu Wang, Yuhui Su, Mouxiang Chen, Peng Wang, Zhihai Wang, Que Shen, Hao Zhou, An Yang, Fei Huang, Yujiu Yang, Dayiheng Liu</p>
       </div>

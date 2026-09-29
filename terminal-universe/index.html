@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Terminal-Universe — Turning Agent Trajectories into Scalable Terminal Environments</title>
+  <meta name="description" content="Terminal-Universe reconstructs reusable terminal environments from agent trajectories, scaling training tasks across workspaces and interaction rounds.">
+  <link rel="canonical" href="https://jiewu02.github.io/terminal-universe/">
+  <meta name="theme-color" content="#0a101b">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%230a101b'/%3E%3Cpath d='m10 12 8 8-8 8m12 0h9' fill='none' stroke='%237ae5bb' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css"><script src="script.js" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap nav-inner"><a class="brand" href="#"><span class="prompt">&gt;_</span> Terminal-Universe</a><nav aria-label="Main navigation"><a href="#overview">Overview</a><a href="#method">Method</a><a href="#results">Results</a><a href="https://arxiv.org/abs/2609.04148">Paper <span class="external">↗</span></a></nav></div></header>
+<main id="main">
+<section class="hero wrap">
+  <p class="eyebrow">QWEN × TSINGHUA UNIVERSITY <span>/</span> RESEARCH 2026</p>
+  <h1>Terminal<span>-</span>Universe<span class="cursor" aria-hidden="true">_</span></h1>
+  <h2>Turning Agent Trajectories into<br class="desktop-break"> Scalable Terminal Environments</h2>
+  <p class="hero-description">A trajectory records one solution.<br>An environment opens up a universe of tasks.</p>
+  <div class="actions"><a class="button primary" href="https://arxiv.org/abs/2609.04148">Read the paper</a><a class="button" href="#overview"><span aria-hidden="true">▷</span> Watch overview</a><a class="text-link" href="https://huggingface.co/papers/2609.04148">Hugging Face</a></div>
+  <div class="authors"><a href="https://jiewu02.github.io/">Jie Wu<sup>1,2</sup></a>, Zhenru Zhang<sup>1,‡</sup>, Beichen Zhang<sup>1</sup>, Xuwu Wang<sup>1</sup>, Yuhui Su<sup>1</sup>, Mouxiang Chen<sup>1</sup>, Peng Wang<sup>1</sup>, Zhihai Wang<sup>1</sup>, Que Shen<sup>1</sup>, Hao Zhou<sup>1</sup>, An Yang<sup>1</sup>, Fei Huang<sup>1</sup>, Yujiu Yang<sup>2,†</sup>, Dayiheng Liu<sup>1,†</sup></div>
+  <p class="affiliations"><span><sup>1</sup> Qwen Team, Alibaba Group</span><span><sup>2</sup> Tsinghua University</span></p>
+  <p class="author-notes">‡ Project leader &nbsp; · &nbsp; † Corresponding authors</p>
+</section>
+<section class="video-section wrap" id="overview" aria-labelledby="overview-title">
+  <div class="window-bar"><span class="window-label" id="overview-title"><span class="prompt">&gt;_</span> terminal-universe / overview</span><span>TRAJECTORIES → ENVIRONMENTS → TASKS</span></div>
+  <video controls playsinline preload="metadata" poster="assets/video-poster.jpg" aria-label="Terminal-Universe research overview"><source src="assets/overview.mp4" type="video/mp4">Your browser does not support embedded video. <a href="assets/overview.mp4">Download the overview video</a>.</video>
+  <p class="video-caption">From recorded interactions to reusable, verifiable environments. <a href="assets/overview.mp4" download>Download video</a></p>
+</section>
+<section class="stats wrap" aria-label="Key findings"><div><strong>37.3<span>k</span></strong><p>Task-sufficient environments</p></div><div><strong>32.0<span>k</span></strong><p>Training records in the full mixture</p></div><div><strong>+11.9<span>pts</span></strong><p>Terminal-Bench 2.1</p></div><div><strong>+13.8<span>pts</span></strong><p>EvoCode-Bench v2 · MT@4</p></div></section>
+<div class="light-surface">
+<section class="section wrap intro" id="idea"><div><p class="eyebrow">01 / THE IDEA</p><h2>The environment<br>is already in the trace.</h2></div><div class="intro-copy"><p>Agent trajectories expose the files, commands, and edits behind real work. Terminal-Universe uses that evidence to reconstruct the workspace before the solution, then completes the missing context.</p><p>The result is a reusable environment: solve the original task again, pose a new one, connect related codebases, or continue the interaction over multiple rounds. Each generated task is grounded in executable code and checked with a verifier.</p><a class="inline-link" href="https://arxiv.org/abs/2609.04148">Read the full abstract on arXiv</a></div></section>
+<section class="section wrap" id="method"><div class="section-heading"><div><p class="eyebrow">02 / THE METHOD</p><h2>Reconstruct. Re-query. Verify.</h2></div><p>Recover the workspace.<br>Scale what an agent can learn from it.</p></div>
+<div class="pipeline"><article><span class="step">01</span><h3>Replay the evidence</h3><p>Replay recorded file operations to recover the earliest observed file states, withholding the original agent’s solution edits.</p><code>trajectory → partial workspace</code></article><article><span class="step">02</span><h3>Complete the context</h3><p>A completion agent restores missing files and dependencies. A sufficiency judge retains workspaces that support the task.</p><code>partial → executable workspace</code></article><article><span class="step">03</span><h3>Generate &amp; verify</h3><p>Explore recovered environments for new tasks, roll out solutions, and select training data with executable verifiers.</p><code>workspace → verified training data</code></article></div>
+<figure class="framework"><a href="assets/framework.png" target="_blank" rel="noopener" aria-label="Open the full-resolution Terminal-Universe framework figure"><img src="assets/framework.png" alt="Terminal-Universe framework: trajectory replay, agentic completion and filtering, followed by intent recovery, single-workspace, cross-workspace and multi-round task generation." loading="lazy" width="2032" height="1455"></a><figcaption>Framework from the paper. Select the figure to view it at full resolution.</figcaption></figure>
+<div class="section-heading requery-heading"><h3>One environment. Four ways to re-query.</h3></div>
+<div class="query-grid"><article><span class="tag">RECOVER</span><h3>Original intent</h3><p>Reconstruct the user’s original request and let a stronger teacher solve it in the recovered environment.</p></article><article><span class="tag">EXPLORE</span><h3>Single workspace</h3><p>Inspect the codebase to create new, diverse tasks grounded in its actual files and capabilities.</p></article><article><span class="tag">BREADTH</span><h3>Cross-workspace</h3><p>Connect a writable target with a related, read-only reference to synthesize tasks spanning codebases.</p></article><article><span class="tag">DEPTH</span><h3>Multi-round</h3><p>Continue with user feedback, changing requirements, and verified recovery across a persistent session.</p></article></div>
+</section>
+<section class="section wrap results" id="results"><div class="section-heading"><div><p class="eyebrow">03 / THE RESULTS</p><h2>Better environments.<br>Stronger terminal agents.</h2></div><p>Qwen3.5-27B, before and after supervised<br>fine-tuning on the 32.0k full mixture.</p></div>
+<div class="charts"><article class="chart"><div class="chart-title"><h3>Terminal-Bench 2.1</h3><span>+11.9 pts</span></div><p>Average Pass@1 (%) · Terminus2-XML</p><div class="bar-row"><span>Base model</span><div class="track"><div class="bar base" style="--value:46.2%"><b>46.2</b></div></div></div><div class="bar-row"><span>Terminal-Universe</span><div class="track"><div class="bar ours" style="--value:58.1%"><b>58.1</b></div></div></div><div class="axis"><span>0</span><span>50</span><span>100</span></div></article>
+<article class="chart"><div class="chart-title"><h3>EvoCode-Bench v2</h3><span>+13.8 pts</span></div><p>MT@4 (%) · Multi-round evaluation</p><div class="bar-row"><span>Base model</span><div class="track"><div class="bar base" style="--value:6.3%"><b>6.3</b></div></div></div><div class="bar-row"><span>Terminal-Universe</span><div class="track"><div class="bar ours" style="--value:20.1%"><b>20.1</b></div></div></div><div class="axis"><span>0</span><span>50</span><span>100</span></div></article></div>
+<p class="source-note">Reported in Table 3 of the <a href="https://arxiv.org/abs/2609.04148">paper</a>. Gains are absolute percentage-point differences from the same base model.</p>
+<div class="finding"><span class="prompt">&gt;_</span><div><h3>Re-solving beats imitating.</h3><p>At the same 35.8k training volume, Intent Recovery reaches <strong>52.1%</strong> versus <strong>36.7%</strong> for source-trajectory SFT on Terminal-Bench 2.1, averaged over Claude Code and Terminus2-XML. Recovered environments make it possible to regenerate better demonstrations.</p><span class="source-note">Source: Table 4 · Intent Recovery ablation</span></div></div>
+</section>
+</div>
+<section class="section wrap citation" id="citation"><div class="section-heading"><div><p class="eyebrow">04 / CITATION</p><h2>Build on this work.</h2></div><button class="button" id="copy-citation" type="button">Copy BibTeX</button></div><pre><code id="bibtex">@misc{wu2026terminaluniverse,
+  title={Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments},
+  author={Jie Wu and Zhenru Zhang and Beichen Zhang and Xuwu Wang and Yuhui Su and Mouxiang Chen and Peng Wang and Zhihai Wang and Que Shen and Hao Zhou and An Yang and Fei Huang and Yujiu Yang and Dayiheng Liu},
+  year={2026},
+  eprint={2609.04148},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2609.04148}
+}</code></pre><p id="copy-status" role="status" aria-live="polite"></p></section>
+</main>
+<footer class="wrap"><a class="brand" href="#"><span class="prompt">&gt;_</span> Terminal-Universe</a><p>Qwen Team · Tsinghua University · 2026</p><a href="https://jiewu02.github.io/">Jie Wu’s homepage</a></footer>
+</body></html>
