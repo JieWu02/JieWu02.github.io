@@ -6,3 +6,31 @@
 .affiliations{align-items:center;flex-wrap:wrap;gap:20px 36px;margin:24px 0 12px}.affiliation{display:inline-flex;align-items:center;gap:12px}.affiliation-logo{display:block;object-fit:contain;flex-shrink:0}.qwen-logo{width:40px;height:40px}.tsinghua-logo{width:127px;height:40px}@media(max-width:560px){.affiliations{gap:18px}.affiliation{flex-wrap:wrap;justify-content:center}}
 
 .resource-icons{gap:24px;margin:28px 0 30px}.resource-icon{display:inline-flex;align-items:center;justify-content:center;width:58px;height:58px;border-radius:12px;color:#e8eef7;transition:background .15s ease,transform .15s ease}.resource-icon:hover{background:#1a2637;color:#fff;transform:translateY(-2px)}.resource-icon img,.resource-icon svg{display:block}.video-icon{color:var(--mint)}@media(prefers-reduced-motion:reduce){.resource-icon{transition:none}.resource-icon:hover{transform:none}}
+
+/* Full-width research cover */
+.nav{position:absolute;inset:0 0 auto;z-index:3;background:transparent;border:0}
+.nav-inner{min-height:72px}.nav .brand{font-weight:550}.nav nav{color:#c6d0dc}
+.hero{position:relative;isolation:isolate;display:flex;align-items:center;min-height: min(960px,100svh);padding:112px 0 70px;overflow:hidden;text-align:center;background:#080e18}
+.hero-backdrop{position:absolute;inset:0;z-index:-2;pointer-events:none;background:#080e18}
+.hero-backdrop video{width:100%;height:100%;object-fit:cover;opacity:.48;filter:saturate(.7)}
+.hero::after{content:"";position:absolute;inset:0;z-index:-1;background:linear-gradient(180deg,rgba(5,10,19,.64),rgba(5,10,19,.61) 50%,#0a101b 100%),radial-gradient(ellipse at 50% 28%,rgba(46,102,127,.08),rgba(5,10,19,.35) 75%);pointer-events:none}
+.hero-content{width:min(1360px,calc(100% - 80px))}
+.hero h1{font-size:clamp(62px,8.1vw,118px);line-height:1.04;letter-spacing:-.055em;font-weight:750;margin:0 auto 30px;text-shadow:0 4px 32px rgba(0,0,0,.28);color:#fff}
+.hero h1>span{color:#9eedd0}
+.hero h2{max-width:1140px;margin:0 auto 40px;font-size:clamp(29px,3.4vw,48px);line-height:1.25;letter-spacing:-.025em;font-weight:480;color:#eef2f7;text-wrap:balance}
+.hero .authors{display:flex;flex-wrap:wrap;justify-content:center;gap:7px 20px;max-width:1130px;font-size:18px;line-height:1.7;color:#d1d9e4}
+.author{white-space:nowrap}.hero .authors sup{font-size:.65em;color:#c0cbd8;margin-left:3px}
+.hero .affiliations{gap:24px 50px;font-size:16px;margin:34px auto 14px;color:#d7dee9}
+.hero .affiliation{gap:15px}.hero .qwen-logo{width:46px;height:46px}.hero .tsinghua-logo{width:146px;height:46px}
+.hero .author-notes{font-size:13px;color:#adb9ca;margin:0}
+.hero .resource-icons{gap:22px;margin:30px 0 0}
+.hero .resource-icon{width:62px;height:62px;border:1px solid rgba(180,207,221,.27);border-radius:50%;background:rgba(24,38,55,.25);backdrop-filter:blur(8px)}
+.hero .resource-icon:hover{background:rgba(83,129,123,.24);border-color:#7ae5bb;transform:translateY(-3px)}
+.hero .resource-icon svg,.hero .resource-icon img{width:30px;height:30px}
+.background-control{position:absolute;right:28px;bottom:26px;width:34px;height:34px;border:1px solid #465567;border-radius:50%;color:#b6c3d3;background:rgba(10,16,27,.6);font-size:15px;cursor:pointer}
+.background-control:hover{border-color:#7ae5bb;color:#fff}.background-control[hidden]{display:none}
+.video-section{margin-top:34px}
+@media(min-width:1600px){.hero{min-height:940px}}
+@media(max-width:900px){.hero{min-height:100svh;padding:115px 0 65px}.hero-content{width:calc(100% - 48px)}.hero h1{font-size:clamp(54px,8vw,75px)}.hero h2{font-size:32px;margin-bottom:32px}.hero .authors{font-size:16px;gap:6px 16px}.hero .affiliations{gap:24px 30px;font-size:14px}.hero .affiliation{gap:10px}}
+@media(max-width:560px){.nav-inner{min-height:65px;justify-content:space-between;flex-wrap:nowrap;padding:0;gap:12px}.nav .brand{font-size:13px}.nav nav{gap:16px;font-size:12px}.nav .prompt{margin-right:5px}.hero{padding:110px 0 65px;min-height:100svh}.hero-content{width:calc(100% - 40px)}.hero h1{font-size:clamp(48px,12.8vw,70px);line-height:1.03;letter-spacing:-.05em;max-width:100%;margin-bottom:26px}.hero h2{font-size:26px;line-height:1.28;margin-bottom:30px}.hero .authors{font-size:14px;gap:7px 14px;line-height:1.6}.hero .affiliations{margin-top:28px;gap:18px;font-size:14px}.hero .affiliation{gap:12px}.hero .qwen-logo{width:38px;height:38px}.hero .tsinghua-logo{width:121px;height:38px}.hero .author-notes{font-size:12px}.hero .resource-icons{margin-top:28px;gap:22px}.hero .resource-icon{width:56px;height:56px}.background-control{right:16px;bottom:16px}.video-section{margin-top:20px}.citation .eyebrow{font-size:12px}}
+@media(prefers-reduced-motion:reduce){.hero .resource-icon:hover{transform:none}}

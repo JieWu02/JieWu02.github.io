@@ -7,23 +7,42 @@
   <link rel="canonical" href="https://jiewu02.github.io/terminal-universe/">
   <meta name="theme-color" content="#0a101b">
   <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%230a101b'/%3E%3Cpath d='m10 12 8 8-8 8m12 0h9' fill='none' stroke='%237ae5bb' stroke-width='3'/%3E%3C/svg%3E">
-  <link rel="stylesheet" href="style.css"><script src="script.js" defer></script>
+  <link rel="stylesheet" href="style.css?v=hero-2"><script src="script.js?v=hero-2" defer></script>
 </head>
 <body>
 <a class="skip" href="#main">Skip to content</a>
 <header class="nav"><div class="wrap nav-inner"><a class="brand" href="#"><span class="prompt">&gt;_</span> Terminal-Universe</a><nav aria-label="Main navigation"><a href="#overview">Overview</a><a href="https://arxiv.org/abs/2609.04148">Paper <span class="external">↗</span></a></nav></div></header>
 <main id="main">
-<section class="hero wrap">
-  <h1>Terminal<span>-</span>Universe</h1>
+<section class="hero" aria-labelledby="project-title">
+  <div class="hero-backdrop" aria-hidden="true"><video id="hero-background" muted loop playsinline preload="none" poster="assets/video-poster.jpg" tabindex="-1" data-src="assets/hero-background.mp4"></video></div>
+  <div class="hero-content wrap">
+  <h1 id="project-title">Terminal<span>-</span><wbr>Universe</h1>
   <h2>Turning Agent Trajectories into<br class="desktop-break"> Scalable Terminal Environments</h2>
+  <div class="authors">
+    <span class="author">Jie Wu<sup>1,2</sup></span>
+    <span class="author">Zhenru Zhang<sup>1,‡</sup></span>
+    <span class="author">Beichen Zhang<sup>1</sup></span>
+    <span class="author">Xuwu Wang<sup>1</sup></span>
+    <span class="author">Yuhui Su<sup>1</sup></span>
+    <span class="author">Mouxiang Chen<sup>1</sup></span>
+    <span class="author">Peng Wang<sup>1</sup></span>
+    <span class="author">Zhihai Wang<sup>1</sup></span>
+    <span class="author">Que Shen<sup>1</sup></span>
+    <span class="author">Hao Zhou<sup>1</sup></span>
+    <span class="author">An Yang<sup>1</sup></span>
+    <span class="author">Fei Huang<sup>1</sup></span>
+    <span class="author">Yujiu Yang<sup>2,†</sup></span>
+    <span class="author">Dayiheng Liu<sup>1,†</sup></span>
+  </div>
+  <div class="affiliations"><span class="affiliation"><img class="affiliation-logo qwen-logo" src="assets/qwen-logo.png" alt="Qwen logo" width="40" height="40"><span><sup>1</sup> Qwen Team, Alibaba Group</span></span><span class="affiliation"><img class="affiliation-logo tsinghua-logo" src="assets/tsinghua-logo.png" alt="Tsinghua University logo" width="127" height="40"><span><sup>2</sup> Tsinghua University</span></span></div>
+  <p class="author-notes">‡ Project leader &nbsp; · &nbsp; † Corresponding authors</p>
   <div class="actions resource-icons" aria-label="Project resources">
     <a class="resource-icon paper-icon" href="https://arxiv.org/abs/2609.04148" aria-label="Read the paper" title="Paper"><svg viewBox="0 0 40 40" width="36" height="36" fill="none" aria-hidden="true"><path d="M10 4h14l8 8v24H10z" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/><path d="M24 4v9h8M16 20h10M16 26h10M16 31h6" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></a>
     <a class="resource-icon video-icon" href="#overview" aria-label="Watch overview video" title="Video"><svg viewBox="0 0 40 40" width="38" height="38" aria-hidden="true"><rect x="3" y="7" width="34" height="26" rx="8" fill="currentColor"/><path d="m17 13 11 7-11 7z" fill="#0a101b"/></svg></a>
     <a class="resource-icon" href="https://huggingface.co/papers/2609.04148" aria-label="View on Hugging Face" title="Hugging Face"><img src="assets/huggingface-logo.svg" width="38" height="38" alt=""></a>
   </div>
-  <div class="authors">Jie Wu<sup>1,2</sup>, Zhenru Zhang<sup>1,‡</sup>, Beichen Zhang<sup>1</sup>, Xuwu Wang<sup>1</sup>, Yuhui Su<sup>1</sup>, Mouxiang Chen<sup>1</sup>, Peng Wang<sup>1</sup>, Zhihai Wang<sup>1</sup>, Que Shen<sup>1</sup>, Hao Zhou<sup>1</sup>, An Yang<sup>1</sup>, Fei Huang<sup>1</sup>, Yujiu Yang<sup>2,†</sup>, Dayiheng Liu<sup>1,†</sup></div>
-  <div class="affiliations"><span class="affiliation"><img class="affiliation-logo qwen-logo" src="assets/qwen-logo.png" alt="Qwen logo" width="40" height="40"><span><sup>1</sup> Qwen Team, Alibaba Group</span></span><span class="affiliation"><img class="affiliation-logo tsinghua-logo" src="assets/tsinghua-logo.png" alt="Tsinghua University logo" width="127" height="40"><span><sup>2</sup> Tsinghua University</span></span></div>
-  <p class="author-notes">‡ Project leader &nbsp; · &nbsp; † Corresponding authors</p>
+  </div>
+  <button class="background-control" id="background-control" type="button" aria-label="Pause background animation" title="Pause background animation" hidden><span aria-hidden="true">Ⅱ</span></button>
 </section>
 <section class="video-section wrap" id="overview" aria-labelledby="overview-title">
   <div class="window-bar"><span class="window-label" id="overview-title"><span class="prompt">&gt;_</span> terminal-universe / overview</span><span>TRAJECTORIES → ENVIRONMENTS → TASKS</span></div>
