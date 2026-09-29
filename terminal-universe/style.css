@@ -4,3 +4,5 @@
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
 
 .affiliations{align-items:center;flex-wrap:wrap;gap:20px 36px;margin:24px 0 12px}.affiliation{display:inline-flex;align-items:center;gap:12px}.affiliation-logo{display:block;object-fit:contain;flex-shrink:0}.qwen-logo{width:40px;height:40px}.tsinghua-logo{width:127px;height:40px}@media(max-width:560px){.affiliations{gap:18px}.affiliation{flex-wrap:wrap;justify-content:center}}
+
+.resource-icons{gap:24px;margin:28px 0 30px}.resource-icon{display:inline-flex;align-items:center;justify-content:center;width:58px;height:58px;border-radius:12px;color:#e8eef7;transition:background .15s ease,transform .15s ease}.resource-icon:hover{background:#1a2637;color:#fff;transform:translateY(-2px)}.resource-icon img,.resource-icon svg{display:block}.video-icon{color:var(--mint)}@media(prefers-reduced-motion:reduce){.resource-icon{transition:none}.resource-icon:hover{transform:none}}
