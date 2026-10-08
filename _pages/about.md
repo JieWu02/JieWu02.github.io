@@ -25,11 +25,6 @@ redirect_from:
   </aside>
 </section>
 
-<aside class="profile-opportunities" aria-label="Full-time opportunities and contact">
-  <p>I am looking for a full-time position in <strong>Coding Agents</strong>, focusing on <strong>user trajectory flywheels</strong>, agent mid-training.</p>
-  <p>Feel free to contact me via email (<a href="mailto:wujie24@mails.tsinghua.edu.cn">wujie24@mails.tsinghua.edu.cn</a>) or <a href="/images/wechat-qr.jpg" target="_blank" rel="noopener" aria-label="WeChat: open Jie Wu's QR code in a new tab">WeChat</a> if you are recruiting!</p>
-</aside>
-
 <section class="profile-section profile-internships" id="experience" aria-labelledby="experience-heading">
   <h2 class="profile-section__title" id="experience-heading">Experience</h2>
   <div class="timeline-list">
