@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Terminal-Universe — Turning Agent Trajectories into Scalable Terminal Environments</title>
+  <meta name="description" content="Terminal-Universe reconstructs reusable terminal environments from agent trajectories, scaling training tasks across workspaces and interaction rounds.">
+  <link rel="canonical" href="https://jiewu02.github.io/terminal-universe/">
+  <meta name="theme-color" content="#0a101b">
+  <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 40 40'%3E%3Crect width='40' height='40' rx='9' fill='%230a101b'/%3E%3Cpath d='m10 12 8 8-8 8m12 0h9' fill='none' stroke='%237ae5bb' stroke-width='3'/%3E%3C/svg%3E">
+  <link rel="stylesheet" href="style.css?v=hero-4"><script src="script.js?v=hero-3" defer></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="nav"><div class="wrap nav-inner"><a class="brand" href="#"><span class="prompt">&gt;_</span> Terminal-Universe</a><nav aria-label="Main navigation"><a href="#overview">Overview</a><a href="https://arxiv.org/abs/2609.04148">Paper <span class="external">↗</span></a></nav></div></header>
+<main id="main">
+<section class="hero" aria-labelledby="project-title">
+  <div class="hero-backdrop" aria-hidden="true"><video id="hero-background" muted loop playsinline preload="none" poster="assets/video-poster.jpg" tabindex="-1" data-src="assets/hero-background.mp4"></video></div>
+  <div class="hero-content wrap">
+  <h1 id="project-title">Terminal<span>-</span><wbr>Universe</h1>
+  <h2>Turning Agent Trajectories into<br class="desktop-break"> Scalable Terminal Environments</h2>
+  <div class="authors">
+    <div class="author-row">
+    <span class="author">Jie Wu<sup>1,2</sup></span>
+    <span class="author">Zhenru Zhang<sup>1,‡</sup></span>
+    <span class="author">Beichen Zhang<sup>1</sup></span>
+    <span class="author">Xuwu Wang<sup>1</sup></span>
+    <span class="author">Yuhui Su<sup>1</sup></span>
+    <span class="author">Mouxiang Chen<sup>1</sup></span>
+    <span class="author">Peng Wang<sup>1</sup></span>
+    <span class="author">Zhihai Wang<sup>1</sup></span>
+    </div>
+    <div class="author-row">
+    <span class="author">Que Shen<sup>1</sup></span>
+    <span class="author">Hao Zhou<sup>1</sup></span>
+    <span class="author">An Yang<sup>1</sup></span>
+    <span class="author">Fei Huang<sup>1</sup></span>
+    <span class="author">Yujiu Yang<sup>2,†</sup></span>
+    <span class="author">Dayiheng Liu<sup>1,†</sup></span>
+    </div>
+  </div>
+  <div class="affiliations"><span class="affiliation"><img class="affiliation-logo qwen-logo" src="assets/qwen-logo.png" alt="Qwen logo" width="40" height="40"><span><sup>1</sup> Qwen Team, Alibaba Group</span></span><span class="affiliation"><img class="affiliation-logo tsinghua-logo" src="assets/tsinghua-logo.png" alt="Tsinghua University logo" width="127" height="40"><span><sup>2</sup> Tsinghua University</span></span></div>
+  <p class="author-notes">‡ Project leader &nbsp; · &nbsp; † Corresponding authors</p>
+  <div class="actions resource-icons" aria-label="Project resources">
+    <a class="resource-icon paper-icon" href="https://arxiv.org/abs/2609.04148" aria-label="Read the paper" title="Paper"><svg viewBox="0 0 40 40" width="36" height="36" fill="none" aria-hidden="true"><path d="M10 4h14l8 8v24H10z" stroke="currentColor" stroke-width="2.4" stroke-linejoin="round"/><path d="M24 4v9h8M16 20h10M16 26h10M16 31h6" stroke="currentColor" stroke-width="2.4" stroke-linecap="round"/></svg></a>
+    <a class="resource-icon video-icon" href="#overview" aria-label="Watch overview video" title="Video"><svg viewBox="0 0 40 40" width="38" height="38" aria-hidden="true"><rect x="3" y="7" width="34" height="26" rx="8" fill="currentColor"/><path d="m17 13 11 7-11 7z" fill="#0a101b"/></svg></a>
+    <a class="resource-icon" href="https://huggingface.co/papers/2609.04148" aria-label="View on Hugging Face" title="Hugging Face"><img src="assets/huggingface-logo.svg" width="38" height="38" alt=""></a>
+  </div>
+  </div>
+</section>
+<section class="video-section wrap" id="overview" aria-labelledby="overview-title">
+  <div class="window-bar"><span class="window-label" id="overview-title"><span class="prompt">&gt;_</span> terminal-universe / overview</span><span>TRAJECTORIES → ENVIRONMENTS → TASKS</span></div>
+  <video controls playsinline preload="metadata" poster="assets/video-poster.jpg" aria-label="Terminal-Universe research overview"><source src="assets/overview.mp4" type="video/mp4">Your browser does not support embedded video. <a href="assets/overview.mp4">Download the overview video</a>.</video>
+  <p class="video-caption">From recorded interactions to reusable, verifiable environments. <a href="assets/overview.mp4" download>Download video</a></p>
+</section>
+<section class="stats wrap" aria-label="Key findings"><div><strong>37.3<span>k</span></strong><p>Task-sufficient environments</p></div><div><strong>32.0<span>k</span></strong><p>Training records in the full mixture</p></div><div><strong>+11.9<span>pts</span></strong><p>Terminal-Bench 2.1</p></div><div><strong>+13.8<span>pts</span></strong><p>EvoCode-Bench v2 · MT@4</p></div></section>
+<section class="section wrap citation" id="citation"><div class="section-heading"><div><h2 class="eyebrow">CITATION</h2></div><button class="button" id="copy-citation" type="button">Copy BibTeX</button></div><pre><code id="bibtex">@misc{wu2026terminaluniverse,
+  title={Terminal-Universe: Turning Agent Trajectories into Scalable Terminal Environments},
+  author={Jie Wu and Zhenru Zhang and Beichen Zhang and Xuwu Wang and Yuhui Su and Mouxiang Chen and Peng Wang and Zhihai Wang and Que Shen and Hao Zhou and An Yang and Fei Huang and Yujiu Yang and Dayiheng Liu},
+  year={2026},
+  eprint={2609.04148},
+  archivePrefix={arXiv},
+  primaryClass={cs.AI},
+  url={https://arxiv.org/abs/2609.04148}
+}</code></pre><p id="copy-status" role="status" aria-live="polite"></p></section>
+</main>
+</body></html>
