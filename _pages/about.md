@@ -53,10 +53,9 @@ redirect_from:
       <div class="timeline-item__detail">
         <p>Mentored by Xin Zhang, I participated in</p>
         <ul>
-          <li>Code Generation (Target-DPO, EMNLP 2025)</li>
-          <li>Competitive Programming (X-Coder, EMNLP 2026)</li>
-          <li>Codebase Generation (RPG, ICLR 2026, RPG-Encoder, ICML 2026)</li>
-          <li>Repo-level Test Generation (<a href="https://arxiv.org/abs/2602.10471">TestExplora</a>, ICML 2026, DPI-Agent, NeurIPS 2026)</li>
+          <li>Code Generation (<a href="https://arxiv.org/abs/2503.02783">Target-DPO</a>, EMNLP 2025) and Competitive Programming (<a href="https://arxiv.org/abs/2601.06953">X-Coder</a>, EMNLP 2026)</li>
+          <li>Codebase Generation (<a href="https://arxiv.org/abs/2509.16198">RPG</a>, ICLR 2026, <a href="https://arxiv.org/abs/2602.02084">RPG-Encoder</a>, ICML 2026)</li>
+          <li>Repo-level Test Generation (<a href="https://arxiv.org/abs/2602.10471">TestExplora</a>, ICML 2026, <a href="https://arxiv.org/abs/2608.23341">DPI-Agent</a>, NeurIPS 2026)</li>
         </ul>
       </div>
     </article>
@@ -201,5 +200,4 @@ redirect_from:
     </article>
   </div>
 
-  <p class="publication-collaboration-note">I contributed to several projects around coding, including <a href="https://arxiv.org/abs/2509.16198">RPG</a> (ICLR 2026), <a href="https://arxiv.org/abs/2602.02084">RPG-Encoder</a> (ICML 2026), <a href="https://arxiv.org/abs/2602.10471">TestExplora</a> (ICML 2026), <a href="https://arxiv.org/abs/2501.04694">EpiCoder</a> (ICML 2025), and <a href="https://aclanthology.org/2026.findings-acl.1569/">A.S.E.</a> (ACL 2026 Findings).</p>
 </section>
