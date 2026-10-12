@@ -50,6 +50,15 @@ redirect_from:
           <time class="timeline-item__date">Nov. 2024 – Mar. 2026</time>
         </div>
       </div>
+      <div class="timeline-item__detail">
+        <p>Mentored by Xin Zhang, I participated in</p>
+        <ul>
+          <li>Code Generation (Target-DPO, EMNLP 2025)</li>
+          <li>Competitive Programming (X-Coder, EMNLP 2026)</li>
+          <li>Codebase Generation (RPG, ICLR 2026, RPG-Encoder, ICML 2026)</li>
+          <li>Repo-level Test Generation (<a href="https://arxiv.org/abs/2602.10471">TestExplora</a>, ICML 2026, DPI-Agent, NeurIPS 2026)</li>
+        </ul>
+      </div>
     </article>
   </div>
 </section>
