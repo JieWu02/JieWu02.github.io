@@ -83,46 +83,6 @@ redirect_from:
   </div>
 </section>
 
-<section class="profile-section profile-interests" id="research-interests" aria-labelledby="roadmap-heading">
-  <h2 class="profile-section__title" id="roadmap-heading">Roadmap</h2>
-  <div class="research-map" role="group" aria-label="Research areas and representative work">
-    <div class="research-map__root">LLMs for Code and Agents</div>
-    <div class="research-map__connector" aria-hidden="true"></div>
-    <div class="research-map__branches">
-      <article class="research-map__branch">
-        <h3 class="research-interest-item__title">Instruction Synthesis and Alignment</h3>
-        <div class="research-interest-item__works">
-          <span class="research-work">
-            <a class="research-work__name" href="https://arxiv.org/abs/2503.02783">Target-DPO</a>
-            <span class="publication-venue">EMNLP 2025</span>
-          </span>
-        </div>
-      </article>
-
-      <article class="research-map__branch">
-        <h3 class="research-interest-item__title">Competitive Programming</h3>
-        <div class="research-interest-item__works">
-          <span class="research-work">
-            <a class="research-work__name" href="https://arxiv.org/abs/2601.06953">X-Coder</a>
-            <span class="publication-venue">EMNLP 2026</span>
-            <span class="research-work__metric">Over 16K downloads</span>
-          </span>
-        </div>
-      </article>
-
-      <article class="research-map__branch">
-        <h3 class="research-interest-item__title">Environment Scaling for Agents</h3>
-        <div class="research-interest-item__works">
-          <span class="research-work">
-            <a class="research-work__name" href="/terminal-universe/">Terminal-Universe</a>
-            <span class="publication-venue">Qwen Tech Report</span>
-          </span>
-        </div>
-      </article>
-    </div>
-  </div>
-</section>
-
 <section class="profile-section profile-publications" id="publications" aria-labelledby="publications-heading">
   <h2 class="profile-section__title" id="publications-heading">Publications</h2>
 
@@ -157,6 +117,7 @@ redirect_from:
         <h4 class="publication-item__title"><a href="https://www.arxiv.org/abs/2601.06953">X-Coder: Advancing Competitive Programming with Fully Synthetic Tasks, Solutions, and Tests</a></h4>
         <div class="publication-item__meta">
           <span class="publication-venue">EMNLP 2026 Main</span>
+          <span class="research-work__metric">Over 16K downloads</span>
           <span class="publication-links"><a href="https://www.arxiv.org/abs/2601.06953">Paper</a><a href="https://github.com/JieWu02/X-Coder">Code</a><a href="https://huggingface.co/datasets/IIGroup/X-Coder-SFT-376k">Data</a><a href="https://huggingface.co/IIGroup/X-Coder-SFT-Qwen3-8B">Model</a></span>
         </div>
         <p class="publication-item__authors"><strong>Jie Wu</strong>, Haoling Li, Xin Zhang, Jiani Guo, Jane Luo, Steven Liu, Yangyu Huang, Ruihang Chu, Scarlett Li, Yujiu Yang</p>
