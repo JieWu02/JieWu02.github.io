@@ -51,7 +51,7 @@ redirect_from:
         </div>
       </div>
       <div class="timeline-item__detail">
-        <p>Mentored by Xin Zhang, I participated in</p>
+        <p>A journey of research. Mentored by Xin Zhang, I participated in</p>
         <ul>
           <li>Code Generation (<a href="https://arxiv.org/abs/2503.02783">Target-DPO</a>, EMNLP 2025) and Competitive Programming (<a href="https://arxiv.org/abs/2601.06953">X-Coder</a>, EMNLP 2026)</li>
           <li>Codebase Generation (<a href="https://arxiv.org/abs/2509.16198">RPG</a>, ICLR 2026, <a href="https://arxiv.org/abs/2602.02084">RPG-Encoder</a>, ICML 2026)</li>
