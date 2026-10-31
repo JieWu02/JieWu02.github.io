@@ -31,13 +31,14 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Mentors: Zhenru Zhang and Dayiheng Liu</span></h3>
           <time class="timeline-item__date">Mar. 2026 – Present</time>
         </div>
       </div>
       <div class="timeline-item__detail">
         <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="/terminal-universe/">Terminal Universe</a>. <strong class="timeline-item__highlight">It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</strong></p>
-        <p><strong>Scalable Environments for Hybrid Computer-Use Agents.</strong><br>I develop a full-stack, multimedia, high-fidelity web-mockup pipeline. It provides offline browser environments at scale for browser-use agent rollouts, verification, and reinforcement learning. See <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a> for details.</p>
+        <p><strong>Environment Scaling for Cowork.</strong><br>I contributed to Qwen4’s Cowork capabilities by scaling full-stack browser environments. This work enhances the foundation model’s ability to combine CLI execution with browser interaction.</p>
+        <p>I also contribute to <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a>.</p>
       </div>
     </article>
 
