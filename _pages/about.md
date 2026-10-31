@@ -37,7 +37,7 @@ redirect_from:
       </div>
       <div class="timeline-item__detail">
         <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://terminal-universe-project.github.io/">Terminal Universe</a>. It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</p>
-        <p><strong>Environment Scaling for Cowork.</strong><br>I contributed to Qwen4’s Cowork capabilities by scaling full-stack browser environments. This work enhances the foundation model’s ability to combine CLI execution with browser interaction. I also contribute to <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a>.</p>
+        <p><strong>Environment Scaling for Cowork.</strong><br>I contributed to Qwen4’s Cowork capabilities by scaling browser environments. This work enhances the foundation model’s ability to combine CLI execution with browser interaction. I also contribute to <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a>.</p>
       </div>
     </article>
 
