@@ -37,8 +37,7 @@ redirect_from:
       </div>
       <div class="timeline-item__detail">
         <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="/terminal-universe/">Terminal Universe</a>. <strong class="timeline-item__highlight">It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</strong></p>
-        <p><strong>Environment Scaling for Cowork.</strong><br>I contributed to Qwen4’s Cowork capabilities by scaling full-stack browser environments. This work enhances the foundation model’s ability to combine CLI execution with browser interaction.</p>
-        <p>I also contribute to <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a>.</p>
+        <p><strong>Environment Scaling for Cowork.</strong><br>I contributed to Qwen4’s Cowork capabilities by scaling full-stack browser environments. This work enhances the foundation model’s ability to combine CLI execution with browser interaction. I also contribute to <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a>.</p>
       </div>
     </article>
 
@@ -46,12 +45,12 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--microsoft" src="/images/brands/microsoft-logo.svg" alt="Microsoft logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Asia</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Asia</span><span class="timeline-item__separator">·</span><span class="timeline-item__focus">Mentor: Xin Zhang</span></h3>
           <time class="timeline-item__date">Nov. 2024 – Mar. 2026</time>
         </div>
       </div>
       <div class="timeline-item__detail">
-        <p>A journey of research. Mentored by Xin Zhang, I participated in</p>
+        <p>A journey of research. I participated in</p>
         <ul>
           <li><strong>Code Generation</strong> (<a href="https://arxiv.org/abs/2503.02783">Target-DPO</a>, EMNLP 2025) and <strong>Competitive Programming</strong> (<a href="https://arxiv.org/abs/2601.06953">X-Coder</a>, EMNLP 2026)</li>
           <li><strong>Codebase Generation</strong> (<a href="https://arxiv.org/abs/2509.16198">RPG</a>, ICLR 2026, <a href="https://arxiv.org/abs/2602.02084">RPG-Encoder</a>, ICML 2026)</li>
