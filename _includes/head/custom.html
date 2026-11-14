@@ -1,0 +1,25 @@
+{% include base_path %}
+
+<!-- start custom head snippets -->
+
+<link rel="icon" href="{{ '/favicon.ico' | relative_url }}?v=jw-1" sizes="16x16 32x32 48x48">
+<link rel="icon" type="image/png" href="{{ '/images/favicon-16x16.png' | relative_url }}?v=jw-1" sizes="16x16">
+<link rel="icon" type="image/png" href="{{ '/images/favicon-32x32.png' | relative_url }}?v=jw-1" sizes="32x32">
+<link rel="icon" type="image/svg+xml" href="{{ '/images/favicon.svg' | relative_url }}?v=jw-1" sizes="any">
+<link rel="apple-touch-icon" sizes="180x180" href="{{ '/images/apple-touch-icon.png' | relative_url }}?v=jw-1">
+<link rel="manifest" href="{{ '/images/manifest.json' | relative_url }}?v=jw-1">
+<meta name="theme-color" content="#ffffff">
+<link rel="stylesheet" href="{{ base_path }}/assets/css/academicons.css"/>
+
+<script type="text/x-mathjax-config"> MathJax.Hub.Config({ TeX: { equationNumbers: { autoNumber: "all" } } }); </script>
+<script type="text/x-mathjax-config">
+  MathJax.Hub.Config({
+    tex2jax: {
+      inlineMath: [ ['$','$'], ["\\(","\\)"] ],
+      processEscapes: true
+    }
+  });
+</script>
+<script src='https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/latest.js?config=TeX-MML-AM_CHTML' async></script>
+
+<!-- end custom head snippets -->

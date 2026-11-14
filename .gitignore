@@ -1,0 +1,16 @@
+_site/
+.bundle/
+.jekyll-cache/
+.sass-cache/
+node_modules/
+vendor/
+
+# Local credentials and private working files must not be published.
+.env
+.env.*
+private/
+tmp/
+
+.DS_Store
+*.lock
+Gemfile*
