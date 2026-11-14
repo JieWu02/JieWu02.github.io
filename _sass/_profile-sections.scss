@@ -33,6 +33,10 @@
   line-height: 1.65;
 }
 
+.page__content .profile-hero__copy p + p {
+  margin-top: 0.75rem;
+}
+
 .page__content .profile-hero__name {
   margin: 0 0 2.1rem;
   color: var(--profile-ink);
@@ -44,12 +48,6 @@
 .page__content .profile-hero__tagline {
   margin-top: 0.35rem;
   color: #4f5963;
-}
-
-@media (min-width: 601px) {
-  .profile-hero + .profile-section {
-    margin-top: -2.5rem;
-  }
 }
 
 .profile-hero__identity {

@@ -12,7 +12,8 @@ redirect_from:
 <section class="profile-hero" aria-label="About Jie Wu">
   <div class="profile-hero__copy">
     <h1 class="profile-hero__name">Jie Wu</h1>
-    <p> I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>.</p>
+    <p>I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. I expect to graduate in June 2027.</p>
+    <p>I welcome collaborations on code agents, data flywheels, and scaling mid-training. Email: wujie24 at mails.tsinghua.edu.cn</p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
     <img class="profile-hero__avatar" src="/images/profile-portrait.jpg" alt="Jie Wu">
@@ -36,8 +37,8 @@ redirect_from:
         </div>
       </div>
       <div class="timeline-item__detail">
-        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://terminal-universe-project.github.io/">Terminal Universe</a>. It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</p>
-        <p><strong>Environment Scaling for Cowork.</strong><br>I contributed to the Qwen series’ Cowork capabilities by scaling browser environments. This work enhances the foundation model’s ability to combine CLI execution with browser interaction. I also contribute to <a href="https://huggingface.co/papers/2609.22000">RecreationWorld</a>.</p>
+        <p><strong>Environment Scaling for Terminal Agents.</strong><br>I developed <a href="https://terminal-universe-project.github.io/">Terminal Universe</a>, a successful application of the data flywheel. It greatly improves the agent capabilities of Qwen3.8-Max (the open 2.4T-A95B foundation model) through environment scaling from massive, high-quality agent trajectories.</p>
+        <p><strong>Environment Scaling for CUA.</strong><br>I contributed to the CUA capabilities of Qwen foundation models by scaling full-stack browser environments.</p>
       </div>
     </article>
 
