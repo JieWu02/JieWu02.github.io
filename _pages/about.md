@@ -32,8 +32,8 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen Team, Alibaba Group</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Research Intern</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Zhenru Zhang</span></h3>
-          <time class="timeline-item__date">Mar. 2026 – Present</time>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen Team, Alibaba Group</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Research Intern</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Zhenru Zhang and Dayiheng Liu</span></h3>
+          <time class="timeline-item__date">Mar. 2026 – Present · 8 mos</time>
         </div>
       </div>
       <div class="timeline-item__detail">
@@ -47,7 +47,7 @@ redirect_from:
         <img class="timeline-item__logo timeline-item__logo--microsoft" src="/images/brands/microsoft-logo.svg" alt="Microsoft logo">
         <div class="timeline-item__identity">
           <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Research Asia</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Research Intern</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Xin Zhang</span></h3>
-          <time class="timeline-item__date">Nov. 2024 – Mar. 2026</time>
+          <time class="timeline-item__date">Nov. 2024 – Mar. 2026 · 1 yr 4 mos</time>
         </div>
       </div>
       <div class="timeline-item__detail">
