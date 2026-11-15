@@ -13,7 +13,7 @@ redirect_from:
   <div class="profile-hero__copy">
     <h1 class="profile-hero__name">Jie Wu</h1>
     <p>An M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. Expected graduation: June 2027.</p>
-    <p>Open to research collaborations on code agents, data flywheels, and scaling mid-training. Email: wujie24 at mails.tsinghua.edu.cn</p>
+    <p>Open to research collaborations on code agents. Email: wujie24 at mails.tsinghua.edu.cn</p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
     <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
