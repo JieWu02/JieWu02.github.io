@@ -12,7 +12,7 @@ redirect_from:
 <section class="profile-hero" aria-label="About Jie Wu">
   <div class="profile-hero__copy">
     <h1 class="profile-hero__name">Jie Wu</h1>
-    <p>I am Jie Wu, an M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. Expected graduation: June 2027.</p>
+    <p>An M.S. student at <strong>Tsinghua University</strong> in the <strong>IIGroup</strong>, advised by Prof. <a href="https://iigroup.github.io/about/">Yujiu Yang</a>. Expected graduation: June 2027.</p>
     <p>Open to research collaborations on code agents, data flywheels, and scaling mid-training. Email: wujie24 at mails.tsinghua.edu.cn</p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
@@ -32,7 +32,7 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--qwen" src="/images/brands/qwen-logo.png" alt="Qwen logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen Team, Alibaba Group</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Research Intern</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Zhenru Zhang and Dayiheng Liu</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Qwen Team, Alibaba Group</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Zhenru Zhang and Dayiheng Liu</span></h3>
           <time class="timeline-item__date">Mar. 2026 – Present · 8 mos</time>
         </div>
       </div>
@@ -46,7 +46,7 @@ redirect_from:
       <div class="timeline-item__header">
         <img class="timeline-item__logo timeline-item__logo--microsoft" src="/images/brands/microsoft-logo.svg" alt="Microsoft logo">
         <div class="timeline-item__identity">
-          <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Research Asia</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Research Intern</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Xin Zhang</span></h3>
+          <h3 class="timeline-item__title"><span class="timeline-item__org">Microsoft Research Asia</span><span class="timeline-item__separator"> · </span><span class="timeline-item__focus">Mentored by Xin Zhang</span></h3>
           <time class="timeline-item__date">Nov. 2024 – Mar. 2026 · 1 yr 4 mos</time>
         </div>
       </div>
