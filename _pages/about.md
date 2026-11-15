@@ -16,7 +16,7 @@ redirect_from:
     <p>I welcome collaborations on code agents, data flywheels, and scaling mid-training. Email: wujie24 at mails.tsinghua.edu.cn</p>
   </div>
   <aside class="profile-hero__identity" aria-label="Profile and contact links">
-    <img class="profile-hero__avatar" src="/images/profile-portrait.jpg" alt="Jie Wu">
+    <img class="profile-hero__avatar" src="/images/profile_new.jpg" alt="Jie Wu">
     <nav class="profile-hero__socials" aria-label="Contact Jie Wu">
       <a class="profile-hero__social-link" href="mailto:wujie24@mails.tsinghua.edu.cn" aria-label="Email" title="Email"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="1.25" y="2.75" width="13.5" height="10.5" rx="1.75"/><path d="m2.25 4.25 5.75 4 5.75-4"/></svg></a>
       <a class="profile-hero__social-link" href="https://scholar.google.com/citations?user=mveolGMAAAAJ&amp;hl=en" aria-label="Google Scholar" title="Google Scholar"><svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.45" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m1 5.7 7-3.8 7 3.8-7 3.8-7-3.8Z"/><path d="M4 8v3.1c2.4 1.7 5.6 1.7 8 0V8M15 5.8v5"/></svg></a>
